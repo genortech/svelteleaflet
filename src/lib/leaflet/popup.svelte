@@ -1,3 +1,5 @@
+<script lang="ts">
+	import { onMount, onDestroy, getContext } from 'svelte';
 	import L from 'leaflet';
 
 	let popup: L.Popup | undefined;

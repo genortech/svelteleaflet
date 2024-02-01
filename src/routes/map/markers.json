@@ -1,702 +1,3502 @@
 [
 	{
 		"id": 1,
-		"name": "Kuhic, Herzog and Quitzon",
-		"Latitude": -34.8209822,
-		"Longitude": 150.7595208,
-		"popup": "Multi-lateral responsive local area network"
+		"Latitude": -34.3346461,
+		"Longitude": 149.6281026,
+		"date": "2023-07-09 07:51:01",
+		"soilCond": "wet"
 	},
 	{
 		"id": 2,
-		"name": "Corwin-Funk",
-		"Latitude": -35.6519294,
-		"Longitude": 150.3131183,
-		"popup": "Innovative content-based projection"
+		"Latitude": -33.7947522,
+		"Longitude": 148.6954675,
+		"date": "2023-12-08 02:45:21",
+		"soilCond": "damp"
 	},
 	{
 		"id": 3,
-		"name": "Thompson, Satterfield and Barton",
-		"Latitude": -34.3824193,
-		"Longitude": 151.8167133,
-		"popup": "Self-enabling composite artificial intelligence"
+		"Latitude": -34.9921771,
+		"Longitude": 148.0501717,
+		"date": "2023-07-23 17:56:47",
+		"soilCond": "damp"
 	},
 	{
 		"id": 4,
-		"name": "Marks, Connelly and White",
-		"Latitude": -33.2520442,
-		"Longitude": 150.6340719,
-		"popup": "Optimized 24 hour architecture"
+		"Latitude": -34.003923,
+		"Longitude": 149.2071021,
+		"date": "2023-02-19 08:40:37",
+		"soilCond": "damp"
 	},
 	{
 		"id": 5,
-		"name": "Lakin-Keeling",
-		"Latitude": -34.0657741,
-		"Longitude": 151.2949608,
-		"popup": "Up-sized national intranet"
+		"Latitude": -33.8911053,
+		"Longitude": 148.1742574,
+		"date": "2023-04-08 22:31:16",
+		"soilCond": "dry"
 	},
 	{
 		"id": 6,
-		"name": "Simonis, Doyle and Runte",
-		"Latitude": -35.0411672,
-		"Longitude": 150.5602431,
-		"popup": "Polarised modular solution"
+		"Latitude": -35.1344959,
+		"Longitude": 149.4166344,
+		"date": "2023-07-27 18:38:46",
+		"soilCond": "wet"
 	},
 	{
 		"id": 7,
-		"name": "Towne, Ritchie and Marvin",
-		"Latitude": -34.5406556,
-		"Longitude": 151.9108005,
-		"popup": "Innovative heuristic implementation"
+		"Latitude": -32.7565677,
+		"Longitude": 148.1740775,
+		"date": "2024-01-22 08:12:56",
+		"soilCond": "dry"
 	},
 	{
 		"id": 8,
-		"name": "Spencer Group",
-		"Latitude": -34.7514539,
-		"Longitude": 148.7112238,
-		"popup": "Grass-roots multi-state info-mediaries"
+		"Latitude": -33.5155257,
+		"Longitude": 149.7090975,
+		"date": "2023-06-05 00:04:36",
+		"soilCond": "damp"
 	},
 	{
 		"id": 9,
-		"name": "Volkman-Haag",
-		"Latitude": -33.5491647,
-		"Longitude": 149.8574136,
-		"popup": "Adaptive systematic project"
+		"Latitude": -35.2675091,
+		"Longitude": 149.8797411,
+		"date": "2023-07-24 15:21:01",
+		"soilCond": "dry"
 	},
 	{
 		"id": 10,
-		"name": "Fritsch-Kunde",
-		"Latitude": -34.0668692,
-		"Longitude": 149.2973763,
-		"popup": "Up-sized maximized contingency"
+		"Latitude": -34.1112141,
+		"Longitude": 149.55428,
+		"date": "2023-04-16 17:33:38",
+		"soilCond": "dry"
 	},
 	{
 		"id": 11,
-		"name": "Mayert-Shanahan",
-		"Latitude": -35.4948033,
-		"Longitude": 150.2331677,
-		"popup": "Up-sized systematic product"
+		"Latitude": -33.0992501,
+		"Longitude": 148.9894307,
+		"date": "2023-10-26 05:18:48",
+		"soilCond": "dry"
 	},
 	{
 		"id": 12,
-		"name": "Smitham, Weimann and Wunsch",
-		"Latitude": -32.7494712,
-		"Longitude": 149.9313258,
-		"popup": "Business-focused client-server paradigm"
+		"Latitude": -35.8251876,
+		"Longitude": 148.6817296,
+		"date": "2023-08-12 17:25:28",
+		"soilCond": "dry"
 	},
 	{
 		"id": 13,
-		"name": "Hartmann-Rodriguez",
-		"Latitude": -34.0386969,
-		"Longitude": 148.5723458,
-		"popup": "Reverse-engineered 6th generation instruction set"
+		"Latitude": -35.0765421,
+		"Longitude": 149.2184584,
+		"date": "2023-07-01 02:25:22",
+		"soilCond": "damp"
 	},
 	{
 		"id": 14,
-		"name": "Koss, Kuphal and Runolfsdottir",
-		"Latitude": -34.3419784,
-		"Longitude": 149.4523368,
-		"popup": "Ameliorated zero administration focus group"
+		"Latitude": -32.8275485,
+		"Longitude": 148.4827107,
+		"date": "2023-10-21 00:47:55",
+		"soilCond": "dry"
 	},
 	{
 		"id": 15,
-		"name": "Conroy-West",
-		"Latitude": -32.7977126,
-		"Longitude": 149.4619361,
-		"popup": "Monitored multi-state service-desk"
+		"Latitude": -32.797386,
+		"Longitude": 148.3212343,
+		"date": "2023-04-15 17:56:20",
+		"soilCond": "wet"
 	},
 	{
 		"id": 16,
-		"name": "Legros Group",
-		"Latitude": -34.7757527,
-		"Longitude": 148.0361901,
-		"popup": "Polarised global interface"
+		"Latitude": -33.3828727,
+		"Longitude": 148.8429524,
+		"date": "2023-11-04 22:27:07",
+		"soilCond": "wet"
 	},
 	{
 		"id": 17,
-		"name": "Kessler-Conroy",
-		"Latitude": -33.2546304,
-		"Longitude": 150.5173218,
-		"popup": "Polarised background neural-net"
+		"Latitude": -33.034435,
+		"Longitude": 148.5575881,
+		"date": "2023-08-18 05:17:43",
+		"soilCond": "dry"
 	},
 	{
 		"id": 18,
-		"name": "Murray LLC",
-		"Latitude": -35.8144097,
-		"Longitude": 149.3360429,
-		"popup": "Future-proofed neutral projection"
+		"Latitude": -34.9999814,
+		"Longitude": 149.5177294,
+		"date": "2023-04-26 04:13:05",
+		"soilCond": "dry"
 	},
 	{
 		"id": 19,
-		"name": "Hermiston, Bergnaum and Kessler",
-		"Latitude": -33.0102474,
-		"Longitude": 151.6890863,
-		"popup": "Managed contextually-based orchestration"
+		"Latitude": -33.5674606,
+		"Longitude": 149.5725108,
+		"date": "2023-04-08 19:51:37",
+		"soilCond": "wet"
 	},
 	{
 		"id": 20,
-		"name": "Windler Group",
-		"Latitude": -32.8164118,
-		"Longitude": 148.3647955,
-		"popup": "Function-based grid-enabled extranet"
+		"Latitude": -32.7880103,
+		"Longitude": 148.7997802,
+		"date": "2023-04-23 16:22:22",
+		"soilCond": "wet"
 	},
 	{
 		"id": 21,
-		"name": "Johnson, Ankunding and Lebsack",
-		"Latitude": -33.6394175,
-		"Longitude": 149.2817998,
-		"popup": "Programmable background product"
+		"Latitude": -34.9059924,
+		"Longitude": 149.0501126,
+		"date": "2023-09-13 14:08:04",
+		"soilCond": "damp"
 	},
 	{
 		"id": 22,
-		"name": "Douglas Group",
-		"Latitude": -33.0338239,
-		"Longitude": 148.2990899,
-		"popup": "Innovative needs-based algorithm"
+		"Latitude": -34.2573688,
+		"Longitude": 148.155067,
+		"date": "2023-03-05 07:51:44",
+		"soilCond": "dry"
 	},
 	{
 		"id": 23,
-		"name": "Huels, Hills and Prohaska",
-		"Latitude": -33.1726642,
-		"Longitude": 150.0020573,
-		"popup": "Reactive encompassing migration"
+		"Latitude": -35.4839338,
+		"Longitude": 148.6809755,
+		"date": "2023-10-10 02:32:34",
+		"soilCond": "dry"
 	},
 	{
 		"id": 24,
-		"name": "Ryan LLC",
-		"Latitude": -34.6044954,
-		"Longitude": 150.7781571,
-		"popup": "Business-focused empowering algorithm"
+		"Latitude": -35.8233565,
+		"Longitude": 149.7315333,
+		"date": "2023-08-09 23:03:06",
+		"soilCond": "damp"
 	},
 	{
 		"id": 25,
-		"name": "Nicolas and Sons",
-		"Latitude": -35.1417053,
-		"Longitude": 150.963115,
-		"popup": "Synergistic mission-critical throughput"
+		"Latitude": -34.9912576,
+		"Longitude": 149.6566997,
+		"date": "2023-05-10 00:33:13",
+		"soilCond": "wet"
 	},
 	{
 		"id": 26,
-		"name": "Gusikowski, Johns and Hoeger",
-		"Latitude": -35.7136003,
-		"Longitude": 149.2691585,
-		"popup": "Assimilated heuristic secured line"
+		"Latitude": -34.444194,
+		"Longitude": 148.7396691,
+		"date": "2023-04-11 01:44:22",
+		"soilCond": "damp"
 	},
 	{
 		"id": 27,
-		"name": "Beatty LLC",
-		"Latitude": -32.9243937,
-		"Longitude": 151.1745028,
-		"popup": "Fully-configurable 24 hour success"
+		"Latitude": -34.3125237,
+		"Longitude": 149.6682559,
+		"date": "2023-05-12 11:24:12",
+		"soilCond": "wet"
 	},
 	{
 		"id": 28,
-		"name": "Medhurst Inc",
-		"Latitude": -35.2463152,
-		"Longitude": 150.36901,
-		"popup": "Down-sized explicit secured line"
+		"Latitude": -34.4102617,
+		"Longitude": 148.2956949,
+		"date": "2023-10-04 21:02:09",
+		"soilCond": "damp"
 	},
 	{
 		"id": 29,
-		"name": "Wyman-Kozey",
-		"Latitude": -33.1191788,
-		"Longitude": 149.96801,
-		"popup": "Progressive cohesive installation"
+		"Latitude": -35.1322215,
+		"Longitude": 148.370141,
+		"date": "2023-05-16 06:40:32",
+		"soilCond": "dry"
 	},
 	{
 		"id": 30,
-		"name": "Swaniawski LLC",
-		"Latitude": -35.5627195,
-		"Longitude": 150.7703626,
-		"popup": "Centralized zero tolerance monitoring"
+		"Latitude": -34.2717005,
+		"Longitude": 148.8671361,
+		"date": "2024-01-11 08:56:05",
+		"soilCond": "wet"
 	},
 	{
 		"id": 31,
-		"name": "Feil-Pollich",
-		"Latitude": -33.9540256,
-		"Longitude": 150.955331,
-		"popup": "Innovative asynchronous orchestration"
+		"Latitude": -35.4609888,
+		"Longitude": 148.9010154,
+		"date": "2023-10-11 10:13:29",
+		"soilCond": "damp"
 	},
 	{
 		"id": 32,
-		"name": "Kerluke Inc",
-		"Latitude": -34.1078552,
-		"Longitude": 151.0958324,
-		"popup": "Devolved eco-centric neural-net"
+		"Latitude": -34.5103064,
+		"Longitude": 148.4472463,
+		"date": "2023-07-11 02:22:42",
+		"soilCond": "damp"
 	},
 	{
 		"id": 33,
-		"name": "Walsh and Sons",
-		"Latitude": -35.4928354,
-		"Longitude": 151.7996027,
-		"popup": "Extended attitude-oriented model"
+		"Latitude": -32.7741133,
+		"Longitude": 149.6542399,
+		"date": "2023-02-04 09:20:02",
+		"soilCond": "damp"
 	},
 	{
 		"id": 34,
-		"name": "DuBuque, Bergstrom and Blick",
-		"Latitude": -33.7691285,
-		"Longitude": 151.6832523,
-		"popup": "Versatile bandwidth-monitored knowledge base"
+		"Latitude": -34.3045115,
+		"Longitude": 149.799611,
+		"date": "2024-01-21 19:00:09",
+		"soilCond": "dry"
 	},
 	{
 		"id": 35,
-		"name": "Leuschke, Koss and Effertz",
-		"Latitude": -32.9146504,
-		"Longitude": 149.0631642,
-		"popup": "Profound radical moderator"
+		"Latitude": -35.7191104,
+		"Longitude": 149.0679611,
+		"date": "2023-07-09 05:49:56",
+		"soilCond": "dry"
 	},
 	{
 		"id": 36,
-		"name": "Bode, Harvey and Ritchie",
-		"Latitude": -35.0343326,
-		"Longitude": 149.9395739,
-		"popup": "Multi-lateral 5th generation ability"
+		"Latitude": -33.7797415,
+		"Longitude": 149.3150301,
+		"date": "2023-07-20 12:36:36",
+		"soilCond": "dry"
 	},
 	{
 		"id": 37,
-		"name": "Considine LLC",
-		"Latitude": -34.1166382,
-		"Longitude": 149.458988,
-		"popup": "Re-contextualized homogeneous customer loyalty"
+		"Latitude": -33.6477459,
+		"Longitude": 149.9171466,
+		"date": "2023-09-30 00:12:19",
+		"soilCond": "wet"
 	},
 	{
 		"id": 38,
-		"name": "Schowalter, Wunsch and Dickinson",
-		"Latitude": -33.100274,
-		"Longitude": 151.4271616,
-		"popup": "Phased system-worthy synergy"
+		"Latitude": -33.9120271,
+		"Longitude": 149.131604,
+		"date": "2023-04-05 19:06:55",
+		"soilCond": "damp"
 	},
 	{
 		"id": 39,
-		"name": "Turner, Kub and Windler",
-		"Latitude": -35.3574449,
-		"Longitude": 148.4984696,
-		"popup": "Digitized foreground solution"
+		"Latitude": -32.8349168,
+		"Longitude": 149.2731559,
+		"date": "2023-08-26 02:42:51",
+		"soilCond": "wet"
 	},
 	{
 		"id": 40,
-		"name": "Goyette LLC",
-		"Latitude": -35.294551,
-		"Longitude": 151.2414244,
-		"popup": "Up-sized 6th generation Graphic Interface"
+		"Latitude": -35.4029512,
+		"Longitude": 149.1535808,
+		"date": "2024-01-20 21:25:05",
+		"soilCond": "damp"
 	},
 	{
 		"id": 41,
-		"name": "Dibbert-Graham",
-		"Latitude": -32.8296724,
-		"Longitude": 150.6063383,
-		"popup": "Integrated disintermediate throughput"
+		"Latitude": -35.0403595,
+		"Longitude": 149.2755513,
+		"date": "2023-09-25 13:43:24",
+		"soilCond": "dry"
 	},
 	{
 		"id": 42,
-		"name": "Crooks-Quigley",
-		"Latitude": -35.466071,
-		"Longitude": 149.9294452,
-		"popup": "Persevering encompassing collaboration"
+		"Latitude": -35.0739712,
+		"Longitude": 148.113879,
+		"date": "2023-08-26 10:27:03",
+		"soilCond": "damp"
 	},
 	{
 		"id": 43,
-		"name": "Jerde-Okuneva",
-		"Latitude": -34.1340936,
-		"Longitude": 149.21902,
-		"popup": "Distributed transitional archive"
+		"Latitude": -35.43932,
+		"Longitude": 148.2846296,
+		"date": "2023-07-29 19:54:11",
+		"soilCond": "damp"
 	},
 	{
 		"id": 44,
-		"name": "Rath LLC",
-		"Latitude": -33.7578145,
-		"Longitude": 151.3253266,
-		"popup": "Progressive multi-state support"
+		"Latitude": -33.557999,
+		"Longitude": 148.3378514,
+		"date": "2024-01-10 05:28:07",
+		"soilCond": "wet"
 	},
 	{
 		"id": 45,
-		"name": "Hettinger, Pacocha and Kuhic",
-		"Latitude": -33.4296028,
-		"Longitude": 149.7540584,
-		"popup": "Managed heuristic focus group"
+		"Latitude": -33.8851717,
+		"Longitude": 148.0358953,
+		"date": "2023-03-04 18:18:58",
+		"soilCond": "damp"
 	},
 	{
 		"id": 46,
-		"name": "Olson, Murphy and Sporer",
-		"Latitude": -34.74074,
-		"Longitude": 149.4096565,
-		"popup": "Team-oriented zero defect initiative"
+		"Latitude": -34.4047258,
+		"Longitude": 149.9426108,
+		"date": "2023-08-16 20:49:20",
+		"soilCond": "wet"
 	},
 	{
 		"id": 47,
-		"name": "Gutmann and Sons",
-		"Latitude": -35.8789844,
-		"Longitude": 149.4908726,
-		"popup": "User-friendly 3rd generation strategy"
+		"Latitude": -33.1483212,
+		"Longitude": 149.0021591,
+		"date": "2023-12-18 12:54:43",
+		"soilCond": "damp"
 	},
 	{
 		"id": 48,
-		"name": "Boyle LLC",
-		"Latitude": -34.8063358,
-		"Longitude": 148.4218298,
-		"popup": "Profit-focused global structure"
+		"Latitude": -33.2388219,
+		"Longitude": 148.986089,
+		"date": "2023-02-14 04:34:09",
+		"soilCond": "dry"
 	},
 	{
 		"id": 49,
-		"name": "O'Conner, Pollich and Kuhic",
-		"Latitude": -34.6111051,
-		"Longitude": 148.1855534,
-		"popup": "Automated content-based framework"
+		"Latitude": -34.0071582,
+		"Longitude": 148.1550104,
+		"date": "2023-04-04 23:09:33",
+		"soilCond": "wet"
 	},
 	{
 		"id": 50,
-		"name": "O'Kon-Rice",
-		"Latitude": -34.7518164,
-		"Longitude": 148.1576208,
-		"popup": "Compatible object-oriented open architecture"
+		"Latitude": -34.3745452,
+		"Longitude": 149.4738261,
+		"date": "2023-10-19 13:01:59",
+		"soilCond": "damp"
 	},
 	{
 		"id": 51,
-		"name": "Mohr-Kub",
-		"Latitude": -32.963217,
-		"Longitude": 149.1968348,
-		"popup": "Re-engineered well-modulated help-desk"
+		"Latitude": -34.2033425,
+		"Longitude": 149.2920226,
+		"date": "2023-12-21 19:06:56",
+		"soilCond": "dry"
 	},
 	{
 		"id": 52,
-		"name": "Cormier-Leannon",
-		"Latitude": -35.0437469,
-		"Longitude": 151.4597955,
-		"popup": "Self-enabling web-enabled matrix"
+		"Latitude": -33.0020592,
+		"Longitude": 148.4520218,
+		"date": "2023-12-18 11:24:34",
+		"soilCond": "wet"
 	},
 	{
 		"id": 53,
-		"name": "Rolfson-Jerde",
-		"Latitude": -33.6075171,
-		"Longitude": 149.2475474,
-		"popup": "Vision-oriented human-resource protocol"
+		"Latitude": -33.0308255,
+		"Longitude": 149.5828324,
+		"date": "2023-08-15 23:44:36",
+		"soilCond": "damp"
 	},
 	{
 		"id": 54,
-		"name": "Oberbrunner, Torphy and Kunze",
-		"Latitude": -34.0637376,
-		"Longitude": 150.2712373,
-		"popup": "Enterprise-wide 3rd generation knowledge user"
+		"Latitude": -35.7241339,
+		"Longitude": 148.8824626,
+		"date": "2023-11-23 11:28:30",
+		"soilCond": "wet"
 	},
 	{
 		"id": 55,
-		"name": "Johnson, Gerhold and Leffler",
-		"Latitude": -33.3036472,
-		"Longitude": 148.2540439,
-		"popup": "Diverse asynchronous initiative"
+		"Latitude": -33.9824519,
+		"Longitude": 148.0985795,
+		"date": "2023-06-05 18:53:36",
+		"soilCond": "wet"
 	},
 	{
 		"id": 56,
-		"name": "Hammes Inc",
-		"Latitude": -32.9312143,
-		"Longitude": 149.2060476,
-		"popup": "Digitized multi-tasking capacity"
+		"Latitude": -34.285414,
+		"Longitude": 148.4597332,
+		"date": "2023-10-22 21:27:06",
+		"soilCond": "dry"
 	},
 	{
 		"id": 57,
-		"name": "Williamson-D'Amore",
-		"Latitude": -35.2675817,
-		"Longitude": 149.0402789,
-		"popup": "Managed incremental ability"
+		"Latitude": -34.6520707,
+		"Longitude": 149.544769,
+		"date": "2023-11-23 05:51:04",
+		"soilCond": "dry"
 	},
 	{
 		"id": 58,
-		"name": "Kuvalis-Gulgowski",
-		"Latitude": -34.8288185,
-		"Longitude": 150.0893768,
-		"popup": "Streamlined client-server attitude"
+		"Latitude": -33.8093244,
+		"Longitude": 149.685359,
+		"date": "2024-01-13 23:19:11",
+		"soilCond": "damp"
 	},
 	{
 		"id": 59,
-		"name": "Heidenreich Inc",
-		"Latitude": -32.7720148,
-		"Longitude": 148.4608913,
-		"popup": "Monitored eco-centric hierarchy"
+		"Latitude": -35.1881412,
+		"Longitude": 148.7651516,
+		"date": "2023-08-09 02:35:54",
+		"soilCond": "wet"
 	},
 	{
 		"id": 60,
-		"name": "Stokes-Kling",
-		"Latitude": -35.8466937,
-		"Longitude": 148.3487531,
-		"popup": "Mandatory upward-trending intranet"
+		"Latitude": -33.1817946,
+		"Longitude": 148.1077581,
+		"date": "2023-09-26 22:14:15",
+		"soilCond": "damp"
 	},
 	{
 		"id": 61,
-		"name": "Ebert Inc",
-		"Latitude": -32.8333105,
-		"Longitude": 151.5678944,
-		"popup": "Exclusive coherent utilisation"
+		"Latitude": -34.5450307,
+		"Longitude": 148.3727617,
+		"date": "2023-02-03 01:59:06",
+		"soilCond": "dry"
 	},
 	{
 		"id": 62,
-		"name": "Jaskolski, Ryan and Wiegand",
-		"Latitude": -34.2730446,
-		"Longitude": 151.4212114,
-		"popup": "Vision-oriented full-range capability"
+		"Latitude": -35.8676664,
+		"Longitude": 148.0047797,
+		"date": "2023-11-13 09:36:50",
+		"soilCond": "dry"
 	},
 	{
 		"id": 63,
-		"name": "Heidenreich and Sons",
-		"Latitude": -33.9536345,
-		"Longitude": 148.2050094,
-		"popup": "Implemented coherent task-force"
+		"Latitude": -34.903999,
+		"Longitude": 149.3842993,
+		"date": "2023-05-20 19:20:35",
+		"soilCond": "damp"
 	},
 	{
 		"id": 64,
-		"name": "Crooks, Lockman and Gulgowski",
-		"Latitude": -35.6552592,
-		"Longitude": 151.9207996,
-		"popup": "Compatible asymmetric encoding"
+		"Latitude": -34.1816918,
+		"Longitude": 149.2726617,
+		"date": "2023-05-30 21:53:07",
+		"soilCond": "wet"
 	},
 	{
 		"id": 65,
-		"name": "McLaughlin LLC",
-		"Latitude": -34.3180851,
-		"Longitude": 151.9391254,
-		"popup": "Reduced fault-tolerant open architecture"
+		"Latitude": -35.8619064,
+		"Longitude": 149.3815471,
+		"date": "2023-03-12 08:22:31",
+		"soilCond": "damp"
 	},
 	{
 		"id": 66,
-		"name": "Mayer-Becker",
-		"Latitude": -32.7547395,
-		"Longitude": 149.9697674,
-		"popup": "Customer-focused fault-tolerant array"
+		"Latitude": -35.5863489,
+		"Longitude": 148.0906911,
+		"date": "2023-04-01 21:31:12",
+		"soilCond": "wet"
 	},
 	{
 		"id": 67,
-		"name": "Mann, Hartmann and Cassin",
-		"Latitude": -34.8933243,
-		"Longitude": 151.5820764,
-		"popup": "Innovative 24/7 moderator"
+		"Latitude": -32.966261,
+		"Longitude": 149.963524,
+		"date": "2023-11-25 15:14:43",
+		"soilCond": "damp"
 	},
 	{
 		"id": 68,
-		"name": "Jakubowski, Feeney and Olson",
-		"Latitude": -34.4726706,
-		"Longitude": 149.9121016,
-		"popup": "Operative intangible capability"
+		"Latitude": -34.1964614,
+		"Longitude": 149.4026637,
+		"date": "2023-12-02 03:42:56",
+		"soilCond": "damp"
 	},
 	{
 		"id": 69,
-		"name": "Spencer-Jacobs",
-		"Latitude": -35.4069495,
-		"Longitude": 151.6174122,
-		"popup": "Synchronised background strategy"
+		"Latitude": -34.6045655,
+		"Longitude": 149.4029649,
+		"date": "2023-11-06 00:55:05",
+		"soilCond": "dry"
 	},
 	{
 		"id": 70,
-		"name": "Dickens, Little and Larkin",
-		"Latitude": -34.9747702,
-		"Longitude": 148.8618696,
-		"popup": "Integrated bandwidth-monitored benchmark"
+		"Latitude": -35.1845351,
+		"Longitude": 148.3267865,
+		"date": "2023-09-11 15:47:32",
+		"soilCond": "wet"
 	},
 	{
 		"id": 71,
-		"name": "Carroll Inc",
-		"Latitude": -33.418824,
-		"Longitude": 148.8559497,
-		"popup": "Reactive attitude-oriented collaboration"
+		"Latitude": -34.3318647,
+		"Longitude": 148.118146,
+		"date": "2023-02-11 12:34:56",
+		"soilCond": "damp"
 	},
 	{
 		"id": 72,
-		"name": "Schroeder and Sons",
-		"Latitude": -33.3233185,
-		"Longitude": 148.7928339,
-		"popup": "Up-sized client-server collaboration"
+		"Latitude": -35.6874548,
+		"Longitude": 148.2766108,
+		"date": "2023-04-30 00:23:38",
+		"soilCond": "damp"
 	},
 	{
 		"id": 73,
-		"name": "Pouros, Shanahan and Crist",
-		"Latitude": -33.4405132,
-		"Longitude": 149.5468785,
-		"popup": "Optimized tertiary portal"
+		"Latitude": -34.6003059,
+		"Longitude": 149.8732623,
+		"date": "2023-09-05 09:40:59",
+		"soilCond": "damp"
 	},
 	{
 		"id": 74,
-		"name": "Rath, Deckow and Quitzon",
-		"Latitude": -34.9922351,
-		"Longitude": 150.8872349,
-		"popup": "Automated well-modulated service-desk"
+		"Latitude": -33.9767804,
+		"Longitude": 149.1111927,
+		"date": "2023-06-05 23:22:26",
+		"soilCond": "dry"
 	},
 	{
 		"id": 75,
-		"name": "Cremin, Waelchi and Nader",
-		"Latitude": -35.6581658,
-		"Longitude": 150.6334653,
-		"popup": "Distributed national groupware"
+		"Latitude": -34.80988,
+		"Longitude": 149.7070515,
+		"date": "2024-01-15 23:21:53",
+		"soilCond": "dry"
 	},
 	{
 		"id": 76,
-		"name": "Reynolds, Keeling and Stamm",
-		"Latitude": -33.6783023,
-		"Longitude": 151.5035717,
-		"popup": "Self-enabling hybrid service-desk"
+		"Latitude": -35.5356916,
+		"Longitude": 148.431777,
+		"date": "2023-08-08 17:11:41",
+		"soilCond": "damp"
 	},
 	{
 		"id": 77,
-		"name": "Jones, Keebler and Hyatt",
-		"Latitude": -34.5691546,
-		"Longitude": 151.8645676,
-		"popup": "Expanded directional neural-net"
+		"Latitude": -33.4930264,
+		"Longitude": 149.4196817,
+		"date": "2023-12-25 09:04:32",
+		"soilCond": "dry"
 	},
 	{
 		"id": 78,
-		"name": "Jaskolski-Walter",
-		"Latitude": -33.556379,
-		"Longitude": 150.2615971,
-		"popup": "Team-oriented coherent challenge"
+		"Latitude": -34.8938941,
+		"Longitude": 148.9880889,
+		"date": "2023-07-15 10:12:12",
+		"soilCond": "damp"
 	},
 	{
 		"id": 79,
-		"name": "Roob Group",
-		"Latitude": -34.1999862,
-		"Longitude": 149.6931375,
-		"popup": "Multi-lateral neutral artificial intelligence"
+		"Latitude": -34.5869849,
+		"Longitude": 149.9697506,
+		"date": "2023-12-03 05:41:05",
+		"soilCond": "wet"
 	},
 	{
 		"id": 80,
-		"name": "MacGyver-Torphy",
-		"Latitude": -34.5735538,
-		"Longitude": 148.6221761,
-		"popup": "Stand-alone human-resource productivity"
+		"Latitude": -34.2510767,
+		"Longitude": 148.5860643,
+		"date": "2023-10-07 17:51:16",
+		"soilCond": "wet"
 	},
 	{
 		"id": 81,
-		"name": "Collins Group",
-		"Latitude": -34.9492262,
-		"Longitude": 150.0244397,
-		"popup": "Automated dedicated model"
+		"Latitude": -33.9264921,
+		"Longitude": 149.8225953,
+		"date": "2023-08-14 03:26:24",
+		"soilCond": "wet"
 	},
 	{
 		"id": 82,
-		"name": "Haley Group",
-		"Latitude": -35.7049088,
-		"Longitude": 149.013097,
-		"popup": "Pre-emptive dedicated migration"
+		"Latitude": -34.0292306,
+		"Longitude": 148.4339661,
+		"date": "2023-02-11 09:19:00",
+		"soilCond": "damp"
 	},
 	{
 		"id": 83,
-		"name": "Tromp LLC",
-		"Latitude": -34.9664031,
-		"Longitude": 148.4860129,
-		"popup": "Triple-buffered clear-thinking analyzer"
+		"Latitude": -34.443938,
+		"Longitude": 148.2381536,
+		"date": "2023-08-03 16:16:27",
+		"soilCond": "wet"
 	},
 	{
 		"id": 84,
-		"name": "Hayes Group",
-		"Latitude": -33.7553035,
-		"Longitude": 148.5162043,
-		"popup": "Multi-tiered reciprocal alliance"
+		"Latitude": -33.7644485,
+		"Longitude": 149.8406322,
+		"date": "2024-01-06 18:06:45",
+		"soilCond": "wet"
 	},
 	{
 		"id": 85,
-		"name": "Hoppe, Beier and Wilderman",
-		"Latitude": -34.8163668,
-		"Longitude": 151.5877944,
-		"popup": "Customer-focused interactive firmware"
+		"Latitude": -35.1897264,
+		"Longitude": 148.6052093,
+		"date": "2023-11-18 14:51:42",
+		"soilCond": "wet"
 	},
 	{
 		"id": 86,
-		"name": "Waters-Towne",
-		"Latitude": -33.7733233,
-		"Longitude": 151.6918026,
-		"popup": "Synergistic regional synergy"
+		"Latitude": -35.5151132,
+		"Longitude": 148.1088919,
+		"date": "2023-11-13 22:34:15",
+		"soilCond": "dry"
 	},
 	{
 		"id": 87,
-		"name": "Wunsch LLC",
-		"Latitude": -33.3430491,
-		"Longitude": 151.4827135,
-		"popup": "Versatile client-server policy"
+		"Latitude": -33.9616164,
+		"Longitude": 148.4121389,
+		"date": "2023-06-14 06:53:44",
+		"soilCond": "dry"
 	},
 	{
 		"id": 88,
-		"name": "Gislason-Wiegand",
-		"Latitude": -34.9244756,
-		"Longitude": 149.5300016,
-		"popup": "Centralized static strategy"
+		"Latitude": -35.2032181,
+		"Longitude": 149.113811,
+		"date": "2023-08-06 18:57:18",
+		"soilCond": "wet"
 	},
 	{
 		"id": 89,
-		"name": "Trantow LLC",
-		"Latitude": -34.1415912,
-		"Longitude": 149.16343,
-		"popup": "Function-based impactful open system"
+		"Latitude": -35.0898715,
+		"Longitude": 148.0066168,
+		"date": "2023-03-09 09:24:05",
+		"soilCond": "damp"
 	},
 	{
 		"id": 90,
-		"name": "Kling, McLaughlin and Carroll",
-		"Latitude": -33.9502461,
-		"Longitude": 149.3909317,
-		"popup": "Grass-roots real-time focus group"
+		"Latitude": -34.5881716,
+		"Longitude": 148.6646005,
+		"date": "2023-05-04 00:58:45",
+		"soilCond": "wet"
 	},
 	{
 		"id": 91,
-		"name": "Barton-Dibbert",
-		"Latitude": -34.8021461,
-		"Longitude": 150.9567961,
-		"popup": "Down-sized holistic groupware"
+		"Latitude": -33.2266423,
+		"Longitude": 149.651371,
+		"date": "2023-07-22 16:15:15",
+		"soilCond": "dry"
 	},
 	{
 		"id": 92,
-		"name": "Spencer, Kozey and Hegmann",
-		"Latitude": -33.6089559,
-		"Longitude": 148.9810019,
-		"popup": "Persistent context-sensitive approach"
+		"Latitude": -35.1791989,
+		"Longitude": 149.3344641,
+		"date": "2024-01-19 09:58:29",
+		"soilCond": "dry"
 	},
 	{
 		"id": 93,
-		"name": "MacGyver-Wyman",
-		"Latitude": -33.4212434,
-		"Longitude": 151.5185583,
-		"popup": "Future-proofed user-facing internet solution"
+		"Latitude": -32.9863321,
+		"Longitude": 148.2893824,
+		"date": "2023-02-23 23:19:36",
+		"soilCond": "wet"
 	},
 	{
 		"id": 94,
-		"name": "Hilpert, McLaughlin and Wolff",
-		"Latitude": -35.0803527,
-		"Longitude": 150.3828863,
-		"popup": "Pre-emptive background local area network"
+		"Latitude": -34.876196,
+		"Longitude": 148.1817795,
+		"date": "2024-01-15 08:28:59",
+		"soilCond": "dry"
 	},
 	{
 		"id": 95,
-		"name": "Stiedemann Inc",
-		"Latitude": -33.8433523,
-		"Longitude": 151.0869809,
-		"popup": "Focused interactive collaboration"
+		"Latitude": -34.4600617,
+		"Longitude": 149.8837823,
+		"date": "2023-04-11 10:04:02",
+		"soilCond": "dry"
 	},
 	{
 		"id": 96,
-		"name": "Doyle, Beier and Jones",
-		"Latitude": -35.3035062,
-		"Longitude": 150.8952979,
-		"popup": "Proactive needs-based orchestration"
+		"Latitude": -34.160306,
+		"Longitude": 148.7399729,
+		"date": "2023-07-28 21:05:17",
+		"soilCond": "wet"
 	},
 	{
 		"id": 97,
-		"name": "Murphy-Rice",
-		"Latitude": -35.1512715,
-		"Longitude": 150.8122491,
-		"popup": "Self-enabling 5th generation database"
+		"Latitude": -33.2965428,
+		"Longitude": 148.3345741,
+		"date": "2023-03-25 15:05:18",
+		"soilCond": "dry"
 	},
 	{
 		"id": 98,
-		"name": "Mosciski Group",
-		"Latitude": -32.7710054,
-		"Longitude": 149.0309545,
-		"popup": "Configurable upward-trending approach"
+		"Latitude": -35.543154,
+		"Longitude": 148.8646976,
+		"date": "2023-10-27 22:14:01",
+		"soilCond": "dry"
 	},
 	{
 		"id": 99,
-		"name": "Hoeger-Wisoky",
-		"Latitude": -35.379311,
-		"Longitude": 148.4182904,
-		"popup": "Optional analyzing conglomeration"
+		"Latitude": -34.3382046,
+		"Longitude": 148.0014146,
+		"date": "2024-01-10 20:54:50",
+		"soilCond": "damp"
 	},
 	{
 		"id": 100,
-		"name": "Bergstrom Group",
-		"Latitude": -34.0216985,
-		"Longitude": 151.7991531,
-		"popup": "Phased 5th generation open system"
+		"Latitude": -33.7656988,
+		"Longitude": 148.5122103,
+		"date": "2023-03-26 21:45:59",
+		"soilCond": "wet"
+	},
+	{
+		"id": 101,
+		"Latitude": -35.0759925,
+		"Longitude": 148.4100577,
+		"date": "2024-01-15 16:42:22",
+		"soilCond": "wet"
+	},
+	{
+		"id": 102,
+		"Latitude": -33.4716464,
+		"Longitude": 148.4308315,
+		"date": "2023-09-11 20:29:59",
+		"soilCond": "damp"
+	},
+	{
+		"id": 103,
+		"Latitude": -33.5373817,
+		"Longitude": 149.0094616,
+		"date": "2023-04-21 09:23:16",
+		"soilCond": "wet"
+	},
+	{
+		"id": 104,
+		"Latitude": -35.8380303,
+		"Longitude": 148.5517418,
+		"date": "2023-05-22 14:46:33",
+		"soilCond": "wet"
+	},
+	{
+		"id": 105,
+		"Latitude": -33.6112779,
+		"Longitude": 149.2648884,
+		"date": "2024-01-20 01:20:51",
+		"soilCond": "damp"
+	},
+	{
+		"id": 106,
+		"Latitude": -34.6042618,
+		"Longitude": 148.608862,
+		"date": "2023-12-12 05:44:32",
+		"soilCond": "damp"
+	},
+	{
+		"id": 107,
+		"Latitude": -33.0038282,
+		"Longitude": 148.426946,
+		"date": "2023-11-23 17:39:08",
+		"soilCond": "dry"
+	},
+	{
+		"id": 108,
+		"Latitude": -34.8664282,
+		"Longitude": 149.4945298,
+		"date": "2023-04-26 03:05:38",
+		"soilCond": "damp"
+	},
+	{
+		"id": 109,
+		"Latitude": -33.1087565,
+		"Longitude": 149.3919957,
+		"date": "2023-06-13 23:09:02",
+		"soilCond": "wet"
+	},
+	{
+		"id": 110,
+		"Latitude": -35.0256216,
+		"Longitude": 148.4974373,
+		"date": "2023-12-04 13:57:22",
+		"soilCond": "damp"
+	},
+	{
+		"id": 111,
+		"Latitude": -34.8515484,
+		"Longitude": 148.8930999,
+		"date": "2023-03-30 13:39:42",
+		"soilCond": "damp"
+	},
+	{
+		"id": 112,
+		"Latitude": -34.6909348,
+		"Longitude": 149.4637587,
+		"date": "2023-03-18 06:47:17",
+		"soilCond": "dry"
+	},
+	{
+		"id": 113,
+		"Latitude": -33.1379901,
+		"Longitude": 148.6046134,
+		"date": "2023-11-19 08:32:17",
+		"soilCond": "damp"
+	},
+	{
+		"id": 114,
+		"Latitude": -35.6345462,
+		"Longitude": 148.8451357,
+		"date": "2023-04-07 11:11:55",
+		"soilCond": "wet"
+	},
+	{
+		"id": 115,
+		"Latitude": -34.4285659,
+		"Longitude": 149.8790027,
+		"date": "2023-02-25 07:21:01",
+		"soilCond": "wet"
+	},
+	{
+		"id": 116,
+		"Latitude": -33.7521494,
+		"Longitude": 149.9894047,
+		"date": "2023-11-21 07:48:43",
+		"soilCond": "dry"
+	},
+	{
+		"id": 117,
+		"Latitude": -35.5277961,
+		"Longitude": 149.0655867,
+		"date": "2023-07-18 06:38:47",
+		"soilCond": "wet"
+	},
+	{
+		"id": 118,
+		"Latitude": -33.9898974,
+		"Longitude": 149.8216304,
+		"date": "2023-07-22 10:31:19",
+		"soilCond": "dry"
+	},
+	{
+		"id": 119,
+		"Latitude": -33.4261854,
+		"Longitude": 149.306494,
+		"date": "2023-09-16 15:27:44",
+		"soilCond": "damp"
+	},
+	{
+		"id": 120,
+		"Latitude": -35.4188713,
+		"Longitude": 149.8010491,
+		"date": "2023-06-02 08:21:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 121,
+		"Latitude": -33.6539137,
+		"Longitude": 149.1761579,
+		"date": "2023-12-01 19:43:11",
+		"soilCond": "dry"
+	},
+	{
+		"id": 122,
+		"Latitude": -34.7878039,
+		"Longitude": 149.6348831,
+		"date": "2023-07-13 02:42:30",
+		"soilCond": "dry"
+	},
+	{
+		"id": 123,
+		"Latitude": -32.7369558,
+		"Longitude": 148.1605633,
+		"date": "2023-05-17 11:00:22",
+		"soilCond": "damp"
+	},
+	{
+		"id": 124,
+		"Latitude": -33.8686624,
+		"Longitude": 148.0317549,
+		"date": "2023-12-14 11:15:54",
+		"soilCond": "wet"
+	},
+	{
+		"id": 125,
+		"Latitude": -33.1261075,
+		"Longitude": 148.8043546,
+		"date": "2023-11-16 12:54:35",
+		"soilCond": "dry"
+	},
+	{
+		"id": 126,
+		"Latitude": -35.4516429,
+		"Longitude": 148.037086,
+		"date": "2023-08-04 17:55:54",
+		"soilCond": "damp"
+	},
+	{
+		"id": 127,
+		"Latitude": -35.7019961,
+		"Longitude": 149.8202857,
+		"date": "2023-12-31 21:49:49",
+		"soilCond": "wet"
+	},
+	{
+		"id": 128,
+		"Latitude": -34.1275597,
+		"Longitude": 148.8098742,
+		"date": "2023-09-18 05:28:51",
+		"soilCond": "wet"
+	},
+	{
+		"id": 129,
+		"Latitude": -33.1212804,
+		"Longitude": 148.1154795,
+		"date": "2023-11-16 16:43:25",
+		"soilCond": "wet"
+	},
+	{
+		"id": 130,
+		"Latitude": -33.6214827,
+		"Longitude": 148.1844692,
+		"date": "2023-09-10 17:00:08",
+		"soilCond": "damp"
+	},
+	{
+		"id": 131,
+		"Latitude": -32.832189,
+		"Longitude": 149.9193853,
+		"date": "2024-01-06 07:48:35",
+		"soilCond": "wet"
+	},
+	{
+		"id": 132,
+		"Latitude": -33.1137849,
+		"Longitude": 149.8093069,
+		"date": "2023-12-15 11:48:05",
+		"soilCond": "dry"
+	},
+	{
+		"id": 133,
+		"Latitude": -34.8800244,
+		"Longitude": 149.7973157,
+		"date": "2023-12-30 03:50:59",
+		"soilCond": "damp"
+	},
+	{
+		"id": 134,
+		"Latitude": -35.8644599,
+		"Longitude": 149.627041,
+		"date": "2023-12-09 14:00:52",
+		"soilCond": "dry"
+	},
+	{
+		"id": 135,
+		"Latitude": -33.8239083,
+		"Longitude": 149.0237461,
+		"date": "2023-02-14 11:17:39",
+		"soilCond": "damp"
+	},
+	{
+		"id": 136,
+		"Latitude": -34.0415805,
+		"Longitude": 149.5128958,
+		"date": "2023-08-01 06:42:45",
+		"soilCond": "damp"
+	},
+	{
+		"id": 137,
+		"Latitude": -33.8138476,
+		"Longitude": 149.4712989,
+		"date": "2023-10-15 12:48:38",
+		"soilCond": "damp"
+	},
+	{
+		"id": 138,
+		"Latitude": -35.2680971,
+		"Longitude": 149.1081281,
+		"date": "2023-04-09 03:35:10",
+		"soilCond": "wet"
+	},
+	{
+		"id": 139,
+		"Latitude": -33.5691786,
+		"Longitude": 149.092974,
+		"date": "2023-11-16 23:46:52",
+		"soilCond": "wet"
+	},
+	{
+		"id": 140,
+		"Latitude": -35.8612511,
+		"Longitude": 149.8819841,
+		"date": "2023-07-10 16:55:05",
+		"soilCond": "dry"
+	},
+	{
+		"id": 141,
+		"Latitude": -34.714097,
+		"Longitude": 149.4824938,
+		"date": "2023-09-07 14:28:31",
+		"soilCond": "wet"
+	},
+	{
+		"id": 142,
+		"Latitude": -35.7973507,
+		"Longitude": 149.6321052,
+		"date": "2024-01-03 21:04:53",
+		"soilCond": "wet"
+	},
+	{
+		"id": 143,
+		"Latitude": -34.5256399,
+		"Longitude": 149.89171,
+		"date": "2023-05-02 14:57:29",
+		"soilCond": "dry"
+	},
+	{
+		"id": 144,
+		"Latitude": -33.1420546,
+		"Longitude": 148.7911446,
+		"date": "2023-11-23 18:48:08",
+		"soilCond": "damp"
+	},
+	{
+		"id": 145,
+		"Latitude": -34.8644089,
+		"Longitude": 148.8958921,
+		"date": "2023-04-25 07:30:18",
+		"soilCond": "damp"
+	},
+	{
+		"id": 146,
+		"Latitude": -33.7635597,
+		"Longitude": 149.1917339,
+		"date": "2024-01-17 12:33:10",
+		"soilCond": "wet"
+	},
+	{
+		"id": 147,
+		"Latitude": -35.4420624,
+		"Longitude": 148.3874906,
+		"date": "2023-06-13 02:58:44",
+		"soilCond": "wet"
+	},
+	{
+		"id": 148,
+		"Latitude": -35.2943891,
+		"Longitude": 148.811606,
+		"date": "2023-03-07 22:31:17",
+		"soilCond": "damp"
+	},
+	{
+		"id": 149,
+		"Latitude": -35.5144945,
+		"Longitude": 149.2848346,
+		"date": "2023-11-18 22:45:22",
+		"soilCond": "damp"
+	},
+	{
+		"id": 150,
+		"Latitude": -34.8435179,
+		"Longitude": 148.4466749,
+		"date": "2023-09-14 03:24:38",
+		"soilCond": "damp"
+	},
+	{
+		"id": 151,
+		"Latitude": -33.3638059,
+		"Longitude": 149.4162986,
+		"date": "2023-11-08 01:48:51",
+		"soilCond": "damp"
+	},
+	{
+		"id": 152,
+		"Latitude": -35.8483575,
+		"Longitude": 149.288655,
+		"date": "2024-01-14 10:47:51",
+		"soilCond": "wet"
+	},
+	{
+		"id": 153,
+		"Latitude": -34.4020316,
+		"Longitude": 148.1232199,
+		"date": "2023-02-26 18:52:59",
+		"soilCond": "damp"
+	},
+	{
+		"id": 154,
+		"Latitude": -32.7396193,
+		"Longitude": 148.5420555,
+		"date": "2023-02-22 10:12:33",
+		"soilCond": "damp"
+	},
+	{
+		"id": 155,
+		"Latitude": -33.4768531,
+		"Longitude": 149.9271575,
+		"date": "2023-04-21 05:18:03",
+		"soilCond": "dry"
+	},
+	{
+		"id": 156,
+		"Latitude": -34.6166822,
+		"Longitude": 149.3222399,
+		"date": "2023-10-02 12:01:42",
+		"soilCond": "dry"
+	},
+	{
+		"id": 157,
+		"Latitude": -32.7991428,
+		"Longitude": 148.8077016,
+		"date": "2023-04-25 04:32:20",
+		"soilCond": "wet"
+	},
+	{
+		"id": 158,
+		"Latitude": -33.8357456,
+		"Longitude": 149.9068692,
+		"date": "2023-12-06 15:09:43",
+		"soilCond": "dry"
+	},
+	{
+		"id": 159,
+		"Latitude": -35.6091226,
+		"Longitude": 148.5016239,
+		"date": "2023-08-04 02:36:05",
+		"soilCond": "wet"
+	},
+	{
+		"id": 160,
+		"Latitude": -35.0550534,
+		"Longitude": 149.3257058,
+		"date": "2023-09-03 17:20:31",
+		"soilCond": "wet"
+	},
+	{
+		"id": 161,
+		"Latitude": -35.4631062,
+		"Longitude": 148.4846004,
+		"date": "2024-01-23 02:16:09",
+		"soilCond": "wet"
+	},
+	{
+		"id": 162,
+		"Latitude": -35.1601463,
+		"Longitude": 148.5907342,
+		"date": "2023-04-23 03:53:27",
+		"soilCond": "dry"
+	},
+	{
+		"id": 163,
+		"Latitude": -35.3322086,
+		"Longitude": 148.3555456,
+		"date": "2023-03-26 02:27:52",
+		"soilCond": "wet"
+	},
+	{
+		"id": 164,
+		"Latitude": -35.8948634,
+		"Longitude": 149.0868398,
+		"date": "2023-05-31 05:56:57",
+		"soilCond": "damp"
+	},
+	{
+		"id": 165,
+		"Latitude": -33.5587447,
+		"Longitude": 149.837357,
+		"date": "2023-03-30 15:57:21",
+		"soilCond": "wet"
+	},
+	{
+		"id": 166,
+		"Latitude": -35.655495,
+		"Longitude": 149.3984559,
+		"date": "2024-01-30 08:15:17",
+		"soilCond": "dry"
+	},
+	{
+		"id": 167,
+		"Latitude": -34.9472125,
+		"Longitude": 148.277023,
+		"date": "2023-04-15 03:44:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 168,
+		"Latitude": -33.303666,
+		"Longitude": 148.6732666,
+		"date": "2023-10-04 23:37:22",
+		"soilCond": "damp"
+	},
+	{
+		"id": 169,
+		"Latitude": -33.0760086,
+		"Longitude": 148.4656327,
+		"date": "2023-02-02 08:45:50",
+		"soilCond": "wet"
+	},
+	{
+		"id": 170,
+		"Latitude": -33.4078727,
+		"Longitude": 148.8347376,
+		"date": "2023-07-09 10:17:56",
+		"soilCond": "dry"
+	},
+	{
+		"id": 171,
+		"Latitude": -33.1417628,
+		"Longitude": 149.2825367,
+		"date": "2023-05-21 07:47:24",
+		"soilCond": "dry"
+	},
+	{
+		"id": 172,
+		"Latitude": -33.3686782,
+		"Longitude": 149.0994954,
+		"date": "2023-03-10 04:27:35",
+		"soilCond": "damp"
+	},
+	{
+		"id": 173,
+		"Latitude": -33.9125615,
+		"Longitude": 149.3246413,
+		"date": "2023-04-29 05:12:48",
+		"soilCond": "dry"
+	},
+	{
+		"id": 174,
+		"Latitude": -35.456258,
+		"Longitude": 149.9971747,
+		"date": "2023-06-29 21:40:32",
+		"soilCond": "dry"
+	},
+	{
+		"id": 175,
+		"Latitude": -34.686546,
+		"Longitude": 149.6862227,
+		"date": "2024-01-25 17:35:18",
+		"soilCond": "wet"
+	},
+	{
+		"id": 176,
+		"Latitude": -34.992858,
+		"Longitude": 148.5469779,
+		"date": "2023-09-06 07:27:00",
+		"soilCond": "damp"
+	},
+	{
+		"id": 177,
+		"Latitude": -34.5571043,
+		"Longitude": 149.2305972,
+		"date": "2023-09-25 09:03:30",
+		"soilCond": "wet"
+	},
+	{
+		"id": 178,
+		"Latitude": -35.2960961,
+		"Longitude": 149.3766119,
+		"date": "2023-05-08 08:43:54",
+		"soilCond": "wet"
+	},
+	{
+		"id": 179,
+		"Latitude": -33.169079,
+		"Longitude": 149.3723309,
+		"date": "2023-03-09 17:11:08",
+		"soilCond": "wet"
+	},
+	{
+		"id": 180,
+		"Latitude": -33.7953644,
+		"Longitude": 148.4034238,
+		"date": "2023-07-06 04:42:09",
+		"soilCond": "damp"
+	},
+	{
+		"id": 181,
+		"Latitude": -35.0482009,
+		"Longitude": 148.0477885,
+		"date": "2023-08-13 00:27:58",
+		"soilCond": "wet"
+	},
+	{
+		"id": 182,
+		"Latitude": -34.1041763,
+		"Longitude": 148.9263812,
+		"date": "2024-01-30 13:05:08",
+		"soilCond": "dry"
+	},
+	{
+		"id": 183,
+		"Latitude": -33.0456056,
+		"Longitude": 148.7948392,
+		"date": "2023-03-08 12:31:36",
+		"soilCond": "damp"
+	},
+	{
+		"id": 184,
+		"Latitude": -35.2667442,
+		"Longitude": 148.4647198,
+		"date": "2023-07-28 01:04:08",
+		"soilCond": "wet"
+	},
+	{
+		"id": 185,
+		"Latitude": -35.6595361,
+		"Longitude": 148.0527432,
+		"date": "2023-10-27 09:51:30",
+		"soilCond": "dry"
+	},
+	{
+		"id": 186,
+		"Latitude": -33.5437209,
+		"Longitude": 148.9083752,
+		"date": "2023-07-24 16:24:56",
+		"soilCond": "wet"
+	},
+	{
+		"id": 187,
+		"Latitude": -34.0882009,
+		"Longitude": 148.2433431,
+		"date": "2023-03-22 17:19:23",
+		"soilCond": "dry"
+	},
+	{
+		"id": 188,
+		"Latitude": -33.5347669,
+		"Longitude": 149.5679708,
+		"date": "2023-03-31 07:53:09",
+		"soilCond": "damp"
+	},
+	{
+		"id": 189,
+		"Latitude": -32.9062244,
+		"Longitude": 149.0562582,
+		"date": "2023-08-18 15:25:18",
+		"soilCond": "wet"
+	},
+	{
+		"id": 190,
+		"Latitude": -34.8940024,
+		"Longitude": 149.177915,
+		"date": "2023-05-09 05:03:44",
+		"soilCond": "wet"
+	},
+	{
+		"id": 191,
+		"Latitude": -33.4920175,
+		"Longitude": 148.197958,
+		"date": "2023-06-22 14:27:42",
+		"soilCond": "dry"
+	},
+	{
+		"id": 192,
+		"Latitude": -33.0764554,
+		"Longitude": 148.4313907,
+		"date": "2023-11-09 20:52:36",
+		"soilCond": "wet"
+	},
+	{
+		"id": 193,
+		"Latitude": -34.2743097,
+		"Longitude": 148.0997207,
+		"date": "2023-10-24 10:01:56",
+		"soilCond": "dry"
+	},
+	{
+		"id": 194,
+		"Latitude": -33.5463908,
+		"Longitude": 149.6555914,
+		"date": "2023-10-21 16:09:02",
+		"soilCond": "damp"
+	},
+	{
+		"id": 195,
+		"Latitude": -35.443844,
+		"Longitude": 148.5943786,
+		"date": "2023-10-11 14:45:54",
+		"soilCond": "wet"
+	},
+	{
+		"id": 196,
+		"Latitude": -35.8203846,
+		"Longitude": 149.7508357,
+		"date": "2023-06-21 18:27:31",
+		"soilCond": "wet"
+	},
+	{
+		"id": 197,
+		"Latitude": -35.8486494,
+		"Longitude": 148.0930607,
+		"date": "2023-06-27 15:33:41",
+		"soilCond": "wet"
+	},
+	{
+		"id": 198,
+		"Latitude": -32.9029777,
+		"Longitude": 148.6030011,
+		"date": "2023-04-06 02:49:13",
+		"soilCond": "damp"
+	},
+	{
+		"id": 199,
+		"Latitude": -34.7146784,
+		"Longitude": 149.7887073,
+		"date": "2023-10-14 14:32:47",
+		"soilCond": "wet"
+	},
+	{
+		"id": 200,
+		"Latitude": -33.1956504,
+		"Longitude": 148.1859007,
+		"date": "2023-12-24 08:08:46",
+		"soilCond": "wet"
+	},
+	{
+		"id": 201,
+		"Latitude": -34.1359098,
+		"Longitude": 149.1942541,
+		"date": "2023-06-06 02:49:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 202,
+		"Latitude": -34.1216414,
+		"Longitude": 148.0460761,
+		"date": "2023-08-13 07:50:41",
+		"soilCond": "damp"
+	},
+	{
+		"id": 203,
+		"Latitude": -33.4557108,
+		"Longitude": 148.5139997,
+		"date": "2023-11-16 22:20:58",
+		"soilCond": "wet"
+	},
+	{
+		"id": 204,
+		"Latitude": -33.6637238,
+		"Longitude": 149.5824424,
+		"date": "2023-06-22 20:15:33",
+		"soilCond": "wet"
+	},
+	{
+		"id": 205,
+		"Latitude": -33.4399558,
+		"Longitude": 148.5717384,
+		"date": "2023-10-15 12:22:30",
+		"soilCond": "damp"
+	},
+	{
+		"id": 206,
+		"Latitude": -33.2444514,
+		"Longitude": 149.0597927,
+		"date": "2023-05-14 03:39:20",
+		"soilCond": "damp"
+	},
+	{
+		"id": 207,
+		"Latitude": -35.0663544,
+		"Longitude": 149.3517754,
+		"date": "2023-09-02 21:47:58",
+		"soilCond": "wet"
+	},
+	{
+		"id": 208,
+		"Latitude": -35.6052638,
+		"Longitude": 149.9031249,
+		"date": "2023-03-02 06:01:14",
+		"soilCond": "wet"
+	},
+	{
+		"id": 209,
+		"Latitude": -34.1996461,
+		"Longitude": 149.1294732,
+		"date": "2023-07-02 04:52:59",
+		"soilCond": "dry"
+	},
+	{
+		"id": 210,
+		"Latitude": -33.5265941,
+		"Longitude": 148.9134293,
+		"date": "2023-06-11 00:20:11",
+		"soilCond": "dry"
+	},
+	{
+		"id": 211,
+		"Latitude": -35.1166218,
+		"Longitude": 148.071201,
+		"date": "2023-04-29 19:48:50",
+		"soilCond": "dry"
+	},
+	{
+		"id": 212,
+		"Latitude": -34.3983694,
+		"Longitude": 148.7384732,
+		"date": "2023-11-08 19:43:28",
+		"soilCond": "dry"
+	},
+	{
+		"id": 213,
+		"Latitude": -33.0635465,
+		"Longitude": 149.1496085,
+		"date": "2023-08-16 23:02:52",
+		"soilCond": "wet"
+	},
+	{
+		"id": 214,
+		"Latitude": -35.1902699,
+		"Longitude": 148.0972347,
+		"date": "2023-04-17 13:51:31",
+		"soilCond": "damp"
+	},
+	{
+		"id": 215,
+		"Latitude": -34.5906751,
+		"Longitude": 149.6878461,
+		"date": "2023-09-18 08:31:11",
+		"soilCond": "wet"
+	},
+	{
+		"id": 216,
+		"Latitude": -35.8738131,
+		"Longitude": 149.8916207,
+		"date": "2023-04-22 22:09:39",
+		"soilCond": "dry"
+	},
+	{
+		"id": 217,
+		"Latitude": -35.7012549,
+		"Longitude": 149.8581514,
+		"date": "2023-08-03 08:44:13",
+		"soilCond": "wet"
+	},
+	{
+		"id": 218,
+		"Latitude": -34.8295314,
+		"Longitude": 149.1452997,
+		"date": "2023-03-27 10:52:47",
+		"soilCond": "wet"
+	},
+	{
+		"id": 219,
+		"Latitude": -32.8633059,
+		"Longitude": 148.373347,
+		"date": "2023-09-20 02:18:59",
+		"soilCond": "dry"
+	},
+	{
+		"id": 220,
+		"Latitude": -35.241206,
+		"Longitude": 149.0812442,
+		"date": "2023-07-17 00:14:11",
+		"soilCond": "damp"
+	},
+	{
+		"id": 221,
+		"Latitude": -35.7747966,
+		"Longitude": 149.0907013,
+		"date": "2023-04-03 06:08:04",
+		"soilCond": "damp"
+	},
+	{
+		"id": 222,
+		"Latitude": -33.4898189,
+		"Longitude": 149.5703873,
+		"date": "2023-09-25 01:41:19",
+		"soilCond": "damp"
+	},
+	{
+		"id": 223,
+		"Latitude": -33.0363806,
+		"Longitude": 148.5360212,
+		"date": "2023-11-28 11:23:05",
+		"soilCond": "damp"
+	},
+	{
+		"id": 224,
+		"Latitude": -34.919122,
+		"Longitude": 148.5488712,
+		"date": "2023-06-14 05:47:22",
+		"soilCond": "wet"
+	},
+	{
+		"id": 225,
+		"Latitude": -33.111388,
+		"Longitude": 148.6670361,
+		"date": "2023-08-04 01:44:10",
+		"soilCond": "wet"
+	},
+	{
+		"id": 226,
+		"Latitude": -33.280203,
+		"Longitude": 148.0634375,
+		"date": "2023-04-30 19:48:56",
+		"soilCond": "dry"
+	},
+	{
+		"id": 227,
+		"Latitude": -34.1672054,
+		"Longitude": 149.7175826,
+		"date": "2024-01-13 21:53:56",
+		"soilCond": "damp"
+	},
+	{
+		"id": 228,
+		"Latitude": -34.8763137,
+		"Longitude": 149.3411763,
+		"date": "2023-04-16 23:43:36",
+		"soilCond": "wet"
+	},
+	{
+		"id": 229,
+		"Latitude": -34.2582184,
+		"Longitude": 149.6656409,
+		"date": "2023-02-03 22:31:12",
+		"soilCond": "wet"
+	},
+	{
+		"id": 230,
+		"Latitude": -34.6104428,
+		"Longitude": 148.036464,
+		"date": "2023-04-27 17:28:36",
+		"soilCond": "dry"
+	},
+	{
+		"id": 231,
+		"Latitude": -35.7474444,
+		"Longitude": 149.6043015,
+		"date": "2023-05-27 10:01:16",
+		"soilCond": "wet"
+	},
+	{
+		"id": 232,
+		"Latitude": -32.8229336,
+		"Longitude": 148.252463,
+		"date": "2023-07-23 08:06:45",
+		"soilCond": "damp"
+	},
+	{
+		"id": 233,
+		"Latitude": -32.9445695,
+		"Longitude": 149.1203074,
+		"date": "2023-10-29 14:29:08",
+		"soilCond": "dry"
+	},
+	{
+		"id": 234,
+		"Latitude": -33.3325134,
+		"Longitude": 149.9838437,
+		"date": "2023-02-08 08:59:42",
+		"soilCond": "dry"
+	},
+	{
+		"id": 235,
+		"Latitude": -35.4868095,
+		"Longitude": 148.7844282,
+		"date": "2023-07-30 18:04:18",
+		"soilCond": "dry"
+	},
+	{
+		"id": 236,
+		"Latitude": -34.1051198,
+		"Longitude": 148.9013322,
+		"date": "2023-06-30 21:05:03",
+		"soilCond": "dry"
+	},
+	{
+		"id": 237,
+		"Latitude": -35.7122923,
+		"Longitude": 148.4970054,
+		"date": "2023-09-10 09:29:56",
+		"soilCond": "wet"
+	},
+	{
+		"id": 238,
+		"Latitude": -35.0033176,
+		"Longitude": 149.8476956,
+		"date": "2023-09-17 21:32:55",
+		"soilCond": "wet"
+	},
+	{
+		"id": 239,
+		"Latitude": -34.3068201,
+		"Longitude": 149.753823,
+		"date": "2023-10-26 17:49:55",
+		"soilCond": "dry"
+	},
+	{
+		"id": 240,
+		"Latitude": -34.8292845,
+		"Longitude": 149.5883851,
+		"date": "2023-12-05 00:45:04",
+		"soilCond": "dry"
+	},
+	{
+		"id": 241,
+		"Latitude": -34.0509677,
+		"Longitude": 148.308414,
+		"date": "2023-02-27 22:17:11",
+		"soilCond": "wet"
+	},
+	{
+		"id": 242,
+		"Latitude": -35.5686472,
+		"Longitude": 148.3254059,
+		"date": "2023-05-08 15:10:56",
+		"soilCond": "wet"
+	},
+	{
+		"id": 243,
+		"Latitude": -35.6342068,
+		"Longitude": 149.0876109,
+		"date": "2023-03-30 11:27:05",
+		"soilCond": "dry"
+	},
+	{
+		"id": 244,
+		"Latitude": -34.7261471,
+		"Longitude": 148.0441001,
+		"date": "2023-11-27 22:12:01",
+		"soilCond": "wet"
+	},
+	{
+		"id": 245,
+		"Latitude": -33.0674435,
+		"Longitude": 148.2747543,
+		"date": "2024-01-23 00:30:39",
+		"soilCond": "damp"
+	},
+	{
+		"id": 246,
+		"Latitude": -34.4379158,
+		"Longitude": 149.7795015,
+		"date": "2024-01-24 05:11:17",
+		"soilCond": "dry"
+	},
+	{
+		"id": 247,
+		"Latitude": -34.8655821,
+		"Longitude": 148.8791738,
+		"date": "2023-07-15 00:01:40",
+		"soilCond": "dry"
+	},
+	{
+		"id": 248,
+		"Latitude": -34.9545977,
+		"Longitude": 149.808273,
+		"date": "2023-08-31 20:21:42",
+		"soilCond": "wet"
+	},
+	{
+		"id": 249,
+		"Latitude": -34.2725787,
+		"Longitude": 148.8712573,
+		"date": "2023-03-05 14:23:37",
+		"soilCond": "dry"
+	},
+	{
+		"id": 250,
+		"Latitude": -34.9711463,
+		"Longitude": 148.5550731,
+		"date": "2023-02-25 14:34:50",
+		"soilCond": "wet"
+	},
+	{
+		"id": 251,
+		"Latitude": -33.5308268,
+		"Longitude": 149.3541133,
+		"date": "2023-07-07 21:34:09",
+		"soilCond": "dry"
+	},
+	{
+		"id": 252,
+		"Latitude": -35.2460551,
+		"Longitude": 148.4823943,
+		"date": "2023-01-31 20:52:46",
+		"soilCond": "damp"
+	},
+	{
+		"id": 253,
+		"Latitude": -34.1222931,
+		"Longitude": 148.5499244,
+		"date": "2023-08-02 06:24:10",
+		"soilCond": "wet"
+	},
+	{
+		"id": 254,
+		"Latitude": -34.5551454,
+		"Longitude": 149.17251,
+		"date": "2023-07-30 07:32:05",
+		"soilCond": "wet"
+	},
+	{
+		"id": 255,
+		"Latitude": -32.8055543,
+		"Longitude": 148.0890478,
+		"date": "2024-01-06 00:22:41",
+		"soilCond": "dry"
+	},
+	{
+		"id": 256,
+		"Latitude": -33.0878339,
+		"Longitude": 148.9262877,
+		"date": "2023-09-09 16:59:42",
+		"soilCond": "wet"
+	},
+	{
+		"id": 257,
+		"Latitude": -34.947953,
+		"Longitude": 149.1603998,
+		"date": "2023-10-26 11:04:57",
+		"soilCond": "wet"
+	},
+	{
+		"id": 258,
+		"Latitude": -33.876249,
+		"Longitude": 149.6584564,
+		"date": "2023-07-31 08:11:45",
+		"soilCond": "dry"
+	},
+	{
+		"id": 259,
+		"Latitude": -33.078247,
+		"Longitude": 149.2374459,
+		"date": "2023-02-05 08:22:11",
+		"soilCond": "wet"
+	},
+	{
+		"id": 260,
+		"Latitude": -34.5588916,
+		"Longitude": 149.370902,
+		"date": "2024-01-10 23:45:56",
+		"soilCond": "wet"
+	},
+	{
+		"id": 261,
+		"Latitude": -34.3435836,
+		"Longitude": 148.2551078,
+		"date": "2023-08-10 16:09:19",
+		"soilCond": "wet"
+	},
+	{
+		"id": 262,
+		"Latitude": -33.8990366,
+		"Longitude": 149.5769317,
+		"date": "2023-04-26 10:41:34",
+		"soilCond": "wet"
+	},
+	{
+		"id": 263,
+		"Latitude": -33.863677,
+		"Longitude": 149.0010588,
+		"date": "2023-11-20 17:37:11",
+		"soilCond": "wet"
+	},
+	{
+		"id": 264,
+		"Latitude": -34.4614545,
+		"Longitude": 148.77036,
+		"date": "2023-06-10 20:25:11",
+		"soilCond": "dry"
+	},
+	{
+		"id": 265,
+		"Latitude": -35.2490975,
+		"Longitude": 149.1070013,
+		"date": "2023-11-15 12:37:01",
+		"soilCond": "dry"
+	},
+	{
+		"id": 266,
+		"Latitude": -35.1627051,
+		"Longitude": 148.8558855,
+		"date": "2023-05-16 09:47:16",
+		"soilCond": "damp"
+	},
+	{
+		"id": 267,
+		"Latitude": -33.3627394,
+		"Longitude": 149.2915107,
+		"date": "2023-12-23 12:49:26",
+		"soilCond": "dry"
+	},
+	{
+		"id": 268,
+		"Latitude": -33.3108319,
+		"Longitude": 148.3803222,
+		"date": "2023-02-26 19:22:19",
+		"soilCond": "dry"
+	},
+	{
+		"id": 269,
+		"Latitude": -35.2762666,
+		"Longitude": 148.8684237,
+		"date": "2023-06-17 10:55:30",
+		"soilCond": "damp"
+	},
+	{
+		"id": 270,
+		"Latitude": -32.9346192,
+		"Longitude": 149.6151398,
+		"date": "2023-09-18 09:06:15",
+		"soilCond": "damp"
+	},
+	{
+		"id": 271,
+		"Latitude": -35.2152873,
+		"Longitude": 149.7615662,
+		"date": "2023-11-23 09:02:47",
+		"soilCond": "wet"
+	},
+	{
+		"id": 272,
+		"Latitude": -33.7689515,
+		"Longitude": 149.5417026,
+		"date": "2024-01-10 20:09:06",
+		"soilCond": "damp"
+	},
+	{
+		"id": 273,
+		"Latitude": -33.1670884,
+		"Longitude": 149.4635444,
+		"date": "2023-09-25 06:20:15",
+		"soilCond": "dry"
+	},
+	{
+		"id": 274,
+		"Latitude": -34.4694388,
+		"Longitude": 148.5805865,
+		"date": "2023-06-17 12:51:51",
+		"soilCond": "wet"
+	},
+	{
+		"id": 275,
+		"Latitude": -34.7366039,
+		"Longitude": 148.5373602,
+		"date": "2023-04-20 19:37:07",
+		"soilCond": "dry"
+	},
+	{
+		"id": 276,
+		"Latitude": -35.7395573,
+		"Longitude": 148.9114195,
+		"date": "2023-06-21 15:25:03",
+		"soilCond": "wet"
+	},
+	{
+		"id": 277,
+		"Latitude": -35.1815216,
+		"Longitude": 149.5189147,
+		"date": "2023-12-28 19:16:07",
+		"soilCond": "damp"
+	},
+	{
+		"id": 278,
+		"Latitude": -33.9539228,
+		"Longitude": 149.6820035,
+		"date": "2024-01-26 03:53:51",
+		"soilCond": "damp"
+	},
+	{
+		"id": 279,
+		"Latitude": -32.9864081,
+		"Longitude": 148.575295,
+		"date": "2023-11-19 08:04:32",
+		"soilCond": "dry"
+	},
+	{
+		"id": 280,
+		"Latitude": -34.9437298,
+		"Longitude": 148.3601309,
+		"date": "2023-05-18 19:43:47",
+		"soilCond": "damp"
+	},
+	{
+		"id": 281,
+		"Latitude": -34.1480778,
+		"Longitude": 148.1128603,
+		"date": "2023-09-13 02:38:38",
+		"soilCond": "dry"
+	},
+	{
+		"id": 282,
+		"Latitude": -33.7715348,
+		"Longitude": 149.4671768,
+		"date": "2023-08-23 22:22:40",
+		"soilCond": "wet"
+	},
+	{
+		"id": 283,
+		"Latitude": -34.921322,
+		"Longitude": 149.6937471,
+		"date": "2023-05-02 04:15:46",
+		"soilCond": "dry"
+	},
+	{
+		"id": 284,
+		"Latitude": -32.9520774,
+		"Longitude": 149.7924413,
+		"date": "2023-10-18 19:21:17",
+		"soilCond": "dry"
+	},
+	{
+		"id": 285,
+		"Latitude": -33.892358,
+		"Longitude": 149.4837856,
+		"date": "2023-07-29 19:02:03",
+		"soilCond": "dry"
+	},
+	{
+		"id": 286,
+		"Latitude": -33.841016,
+		"Longitude": 148.0304141,
+		"date": "2023-08-13 02:45:40",
+		"soilCond": "damp"
+	},
+	{
+		"id": 287,
+		"Latitude": -34.7166582,
+		"Longitude": 148.1321378,
+		"date": "2023-07-26 18:16:44",
+		"soilCond": "wet"
+	},
+	{
+		"id": 288,
+		"Latitude": -33.9478485,
+		"Longitude": 148.7204137,
+		"date": "2023-05-10 11:01:12",
+		"soilCond": "wet"
+	},
+	{
+		"id": 289,
+		"Latitude": -34.0319007,
+		"Longitude": 149.2339576,
+		"date": "2024-01-14 16:03:36",
+		"soilCond": "wet"
+	},
+	{
+		"id": 290,
+		"Latitude": -33.6749148,
+		"Longitude": 148.7661675,
+		"date": "2023-11-21 15:50:06",
+		"soilCond": "dry"
+	},
+	{
+		"id": 291,
+		"Latitude": -33.5710298,
+		"Longitude": 149.0354727,
+		"date": "2023-08-31 09:47:23",
+		"soilCond": "dry"
+	},
+	{
+		"id": 292,
+		"Latitude": -32.7711874,
+		"Longitude": 149.6111837,
+		"date": "2023-07-29 09:05:00",
+		"soilCond": "dry"
+	},
+	{
+		"id": 293,
+		"Latitude": -35.75133,
+		"Longitude": 148.0202538,
+		"date": "2023-08-29 13:33:59",
+		"soilCond": "dry"
+	},
+	{
+		"id": 294,
+		"Latitude": -35.4000264,
+		"Longitude": 149.5933881,
+		"date": "2023-02-23 06:19:39",
+		"soilCond": "dry"
+	},
+	{
+		"id": 295,
+		"Latitude": -32.999981,
+		"Longitude": 148.1733408,
+		"date": "2023-07-17 22:33:59",
+		"soilCond": "damp"
+	},
+	{
+		"id": 296,
+		"Latitude": -32.8376388,
+		"Longitude": 149.4800536,
+		"date": "2023-06-19 05:11:24",
+		"soilCond": "damp"
+	},
+	{
+		"id": 297,
+		"Latitude": -34.8991292,
+		"Longitude": 149.4569474,
+		"date": "2023-03-29 22:49:59",
+		"soilCond": "wet"
+	},
+	{
+		"id": 298,
+		"Latitude": -34.62455,
+		"Longitude": 149.3111589,
+		"date": "2024-01-16 17:31:04",
+		"soilCond": "wet"
+	},
+	{
+		"id": 299,
+		"Latitude": -34.4563672,
+		"Longitude": 148.6765239,
+		"date": "2023-04-11 08:41:32",
+		"soilCond": "dry"
+	},
+	{
+		"id": 300,
+		"Latitude": -32.9692304,
+		"Longitude": 149.098208,
+		"date": "2024-01-11 10:48:08",
+		"soilCond": "wet"
+	},
+	{
+		"id": 301,
+		"Latitude": -34.4199215,
+		"Longitude": 148.8732881,
+		"date": "2023-03-01 13:05:04",
+		"soilCond": "damp"
+	},
+	{
+		"id": 302,
+		"Latitude": -35.0036325,
+		"Longitude": 149.1144661,
+		"date": "2023-07-08 02:47:31",
+		"soilCond": "dry"
+	},
+	{
+		"id": 303,
+		"Latitude": -32.7217725,
+		"Longitude": 148.8657802,
+		"date": "2024-01-27 10:06:13",
+		"soilCond": "damp"
+	},
+	{
+		"id": 304,
+		"Latitude": -34.1235581,
+		"Longitude": 148.6416765,
+		"date": "2023-12-24 22:15:55",
+		"soilCond": "dry"
+	},
+	{
+		"id": 305,
+		"Latitude": -33.7064788,
+		"Longitude": 149.6976646,
+		"date": "2023-12-08 17:06:09",
+		"soilCond": "dry"
+	},
+	{
+		"id": 306,
+		"Latitude": -34.4555431,
+		"Longitude": 149.9095324,
+		"date": "2024-01-01 17:08:14",
+		"soilCond": "wet"
+	},
+	{
+		"id": 307,
+		"Latitude": -33.0656524,
+		"Longitude": 148.5588761,
+		"date": "2023-03-02 13:22:42",
+		"soilCond": "wet"
+	},
+	{
+		"id": 308,
+		"Latitude": -33.9483401,
+		"Longitude": 148.5078949,
+		"date": "2023-08-31 17:59:41",
+		"soilCond": "dry"
+	},
+	{
+		"id": 309,
+		"Latitude": -34.5366168,
+		"Longitude": 149.8590341,
+		"date": "2023-03-21 02:26:45",
+		"soilCond": "damp"
+	},
+	{
+		"id": 310,
+		"Latitude": -34.3534356,
+		"Longitude": 149.3016435,
+		"date": "2023-10-22 13:31:10",
+		"soilCond": "wet"
+	},
+	{
+		"id": 311,
+		"Latitude": -34.5767263,
+		"Longitude": 148.5230356,
+		"date": "2024-01-23 18:29:59",
+		"soilCond": "wet"
+	},
+	{
+		"id": 312,
+		"Latitude": -33.1509681,
+		"Longitude": 148.3672773,
+		"date": "2023-07-24 17:19:48",
+		"soilCond": "wet"
+	},
+	{
+		"id": 313,
+		"Latitude": -33.7519493,
+		"Longitude": 148.1170956,
+		"date": "2024-01-10 23:23:13",
+		"soilCond": "dry"
+	},
+	{
+		"id": 314,
+		"Latitude": -33.9111948,
+		"Longitude": 148.0231587,
+		"date": "2023-10-22 15:09:38",
+		"soilCond": "dry"
+	},
+	{
+		"id": 315,
+		"Latitude": -33.1143617,
+		"Longitude": 148.8000202,
+		"date": "2023-11-25 15:56:08",
+		"soilCond": "dry"
+	},
+	{
+		"id": 316,
+		"Latitude": -33.3207218,
+		"Longitude": 149.0825548,
+		"date": "2023-05-04 03:50:28",
+		"soilCond": "dry"
+	},
+	{
+		"id": 317,
+		"Latitude": -35.7659148,
+		"Longitude": 148.598625,
+		"date": "2023-05-10 03:58:38",
+		"soilCond": "damp"
+	},
+	{
+		"id": 318,
+		"Latitude": -34.2632254,
+		"Longitude": 149.7447829,
+		"date": "2024-01-09 14:44:55",
+		"soilCond": "damp"
+	},
+	{
+		"id": 319,
+		"Latitude": -32.7397547,
+		"Longitude": 148.7098646,
+		"date": "2023-12-15 17:11:06",
+		"soilCond": "damp"
+	},
+	{
+		"id": 320,
+		"Latitude": -34.43685,
+		"Longitude": 148.3363351,
+		"date": "2023-02-27 23:37:40",
+		"soilCond": "wet"
+	},
+	{
+		"id": 321,
+		"Latitude": -33.8679889,
+		"Longitude": 149.1723649,
+		"date": "2023-10-02 18:22:29",
+		"soilCond": "damp"
+	},
+	{
+		"id": 322,
+		"Latitude": -35.3805083,
+		"Longitude": 149.7762427,
+		"date": "2023-10-11 00:12:49",
+		"soilCond": "dry"
+	},
+	{
+		"id": 323,
+		"Latitude": -32.8303313,
+		"Longitude": 148.8783655,
+		"date": "2023-09-26 10:46:03",
+		"soilCond": "damp"
+	},
+	{
+		"id": 324,
+		"Latitude": -34.5812603,
+		"Longitude": 148.4246433,
+		"date": "2023-08-24 22:50:44",
+		"soilCond": "wet"
+	},
+	{
+		"id": 325,
+		"Latitude": -33.2181084,
+		"Longitude": 149.9553316,
+		"date": "2023-02-03 18:18:18",
+		"soilCond": "wet"
+	},
+	{
+		"id": 326,
+		"Latitude": -35.2573822,
+		"Longitude": 149.9885005,
+		"date": "2023-11-12 15:47:00",
+		"soilCond": "damp"
+	},
+	{
+		"id": 327,
+		"Latitude": -33.3195966,
+		"Longitude": 149.1287739,
+		"date": "2023-08-30 17:37:10",
+		"soilCond": "dry"
+	},
+	{
+		"id": 328,
+		"Latitude": -34.5545145,
+		"Longitude": 148.0559576,
+		"date": "2023-02-02 05:57:58",
+		"soilCond": "damp"
+	},
+	{
+		"id": 329,
+		"Latitude": -34.7747563,
+		"Longitude": 148.6049038,
+		"date": "2023-08-22 13:37:42",
+		"soilCond": "dry"
+	},
+	{
+		"id": 330,
+		"Latitude": -35.8279505,
+		"Longitude": 148.215282,
+		"date": "2024-01-09 03:26:49",
+		"soilCond": "wet"
+	},
+	{
+		"id": 331,
+		"Latitude": -34.5784372,
+		"Longitude": 148.6572331,
+		"date": "2023-03-23 23:00:17",
+		"soilCond": "wet"
+	},
+	{
+		"id": 332,
+		"Latitude": -34.8060624,
+		"Longitude": 149.7419922,
+		"date": "2023-02-19 00:54:23",
+		"soilCond": "wet"
+	},
+	{
+		"id": 333,
+		"Latitude": -33.4921102,
+		"Longitude": 148.0325315,
+		"date": "2023-03-27 22:24:49",
+		"soilCond": "dry"
+	},
+	{
+		"id": 334,
+		"Latitude": -33.7222025,
+		"Longitude": 148.8359186,
+		"date": "2023-06-27 03:53:34",
+		"soilCond": "wet"
+	},
+	{
+		"id": 335,
+		"Latitude": -33.7654671,
+		"Longitude": 149.6833274,
+		"date": "2023-11-17 16:15:07",
+		"soilCond": "wet"
+	},
+	{
+		"id": 336,
+		"Latitude": -35.5972302,
+		"Longitude": 148.4081877,
+		"date": "2023-08-31 19:18:14",
+		"soilCond": "dry"
+	},
+	{
+		"id": 337,
+		"Latitude": -35.5144201,
+		"Longitude": 149.5912546,
+		"date": "2023-04-16 13:52:13",
+		"soilCond": "wet"
+	},
+	{
+		"id": 338,
+		"Latitude": -34.7778471,
+		"Longitude": 149.4965473,
+		"date": "2023-03-13 16:55:22",
+		"soilCond": "dry"
+	},
+	{
+		"id": 339,
+		"Latitude": -34.1572858,
+		"Longitude": 148.353509,
+		"date": "2023-07-22 17:28:02",
+		"soilCond": "dry"
+	},
+	{
+		"id": 340,
+		"Latitude": -33.6217401,
+		"Longitude": 148.73616,
+		"date": "2023-09-01 03:51:07",
+		"soilCond": "wet"
+	},
+	{
+		"id": 341,
+		"Latitude": -33.4169418,
+		"Longitude": 148.2934676,
+		"date": "2023-12-03 15:21:36",
+		"soilCond": "dry"
+	},
+	{
+		"id": 342,
+		"Latitude": -35.6093742,
+		"Longitude": 148.4511153,
+		"date": "2023-02-18 11:53:03",
+		"soilCond": "wet"
+	},
+	{
+		"id": 343,
+		"Latitude": -35.29137,
+		"Longitude": 149.9848541,
+		"date": "2023-07-11 09:53:41",
+		"soilCond": "damp"
+	},
+	{
+		"id": 344,
+		"Latitude": -34.2449082,
+		"Longitude": 149.0120152,
+		"date": "2023-04-05 02:53:12",
+		"soilCond": "wet"
+	},
+	{
+		"id": 345,
+		"Latitude": -33.8436673,
+		"Longitude": 149.6848377,
+		"date": "2023-06-04 11:25:41",
+		"soilCond": "damp"
+	},
+	{
+		"id": 346,
+		"Latitude": -32.8440789,
+		"Longitude": 148.564209,
+		"date": "2023-12-11 08:25:52",
+		"soilCond": "wet"
+	},
+	{
+		"id": 347,
+		"Latitude": -33.56824,
+		"Longitude": 149.9060044,
+		"date": "2023-10-26 19:07:27",
+		"soilCond": "damp"
+	},
+	{
+		"id": 348,
+		"Latitude": -32.8633738,
+		"Longitude": 149.9184031,
+		"date": "2023-02-18 18:00:27",
+		"soilCond": "damp"
+	},
+	{
+		"id": 349,
+		"Latitude": -35.4841075,
+		"Longitude": 149.0367609,
+		"date": "2023-07-11 23:46:19",
+		"soilCond": "wet"
+	},
+	{
+		"id": 350,
+		"Latitude": -33.1985666,
+		"Longitude": 148.0421941,
+		"date": "2023-04-01 11:10:07",
+		"soilCond": "damp"
+	},
+	{
+		"id": 351,
+		"Latitude": -33.3109487,
+		"Longitude": 149.1261548,
+		"date": "2023-10-23 04:06:19",
+		"soilCond": "wet"
+	},
+	{
+		"id": 352,
+		"Latitude": -32.9437619,
+		"Longitude": 149.1548237,
+		"date": "2023-03-12 18:33:59",
+		"soilCond": "wet"
+	},
+	{
+		"id": 353,
+		"Latitude": -33.472131,
+		"Longitude": 148.0352832,
+		"date": "2023-05-04 00:35:30",
+		"soilCond": "dry"
+	},
+	{
+		"id": 354,
+		"Latitude": -35.5610623,
+		"Longitude": 149.592789,
+		"date": "2023-11-14 07:46:20",
+		"soilCond": "wet"
+	},
+	{
+		"id": 355,
+		"Latitude": -33.0677838,
+		"Longitude": 148.3599958,
+		"date": "2023-08-26 14:02:56",
+		"soilCond": "dry"
+	},
+	{
+		"id": 356,
+		"Latitude": -34.6048786,
+		"Longitude": 149.8919456,
+		"date": "2023-12-17 00:31:01",
+		"soilCond": "dry"
+	},
+	{
+		"id": 357,
+		"Latitude": -34.6352792,
+		"Longitude": 149.9516082,
+		"date": "2023-11-08 09:28:24",
+		"soilCond": "damp"
+	},
+	{
+		"id": 358,
+		"Latitude": -34.068865,
+		"Longitude": 148.7617262,
+		"date": "2023-02-28 15:36:01",
+		"soilCond": "dry"
+	},
+	{
+		"id": 359,
+		"Latitude": -34.9931613,
+		"Longitude": 148.8293177,
+		"date": "2023-11-28 05:50:29",
+		"soilCond": "dry"
+	},
+	{
+		"id": 360,
+		"Latitude": -35.4864447,
+		"Longitude": 149.9413487,
+		"date": "2023-09-28 08:06:07",
+		"soilCond": "damp"
+	},
+	{
+		"id": 361,
+		"Latitude": -33.4989644,
+		"Longitude": 149.8227437,
+		"date": "2023-03-18 05:24:03",
+		"soilCond": "dry"
+	},
+	{
+		"id": 362,
+		"Latitude": -33.9646556,
+		"Longitude": 149.3713278,
+		"date": "2023-12-27 06:28:41",
+		"soilCond": "damp"
+	},
+	{
+		"id": 363,
+		"Latitude": -34.1994609,
+		"Longitude": 149.9320191,
+		"date": "2023-11-04 07:48:48",
+		"soilCond": "damp"
+	},
+	{
+		"id": 364,
+		"Latitude": -35.6867615,
+		"Longitude": 149.9230454,
+		"date": "2023-06-19 04:17:02",
+		"soilCond": "damp"
+	},
+	{
+		"id": 365,
+		"Latitude": -34.7080085,
+		"Longitude": 148.756678,
+		"date": "2023-02-13 16:53:14",
+		"soilCond": "wet"
+	},
+	{
+		"id": 366,
+		"Latitude": -33.8969593,
+		"Longitude": 148.1277369,
+		"date": "2023-09-06 17:07:08",
+		"soilCond": "dry"
+	},
+	{
+		"id": 367,
+		"Latitude": -35.5094425,
+		"Longitude": 149.9470055,
+		"date": "2023-06-22 22:03:44",
+		"soilCond": "dry"
+	},
+	{
+		"id": 368,
+		"Latitude": -33.1769427,
+		"Longitude": 149.4386216,
+		"date": "2023-06-17 03:40:08",
+		"soilCond": "damp"
+	},
+	{
+		"id": 369,
+		"Latitude": -35.3617621,
+		"Longitude": 148.4989013,
+		"date": "2023-02-04 16:02:11",
+		"soilCond": "dry"
+	},
+	{
+		"id": 370,
+		"Latitude": -33.7094429,
+		"Longitude": 148.7790997,
+		"date": "2023-02-23 02:00:37",
+		"soilCond": "wet"
+	},
+	{
+		"id": 371,
+		"Latitude": -35.458191,
+		"Longitude": 149.8258693,
+		"date": "2023-03-10 17:42:39",
+		"soilCond": "dry"
+	},
+	{
+		"id": 372,
+		"Latitude": -35.1833386,
+		"Longitude": 149.8801845,
+		"date": "2023-12-24 00:04:34",
+		"soilCond": "damp"
+	},
+	{
+		"id": 373,
+		"Latitude": -35.7126061,
+		"Longitude": 149.0213577,
+		"date": "2023-05-10 04:00:53",
+		"soilCond": "dry"
+	},
+	{
+		"id": 374,
+		"Latitude": -35.7082415,
+		"Longitude": 149.7339578,
+		"date": "2023-03-23 07:34:21",
+		"soilCond": "dry"
+	},
+	{
+		"id": 375,
+		"Latitude": -33.4649621,
+		"Longitude": 149.311996,
+		"date": "2023-11-10 21:59:33",
+		"soilCond": "wet"
+	},
+	{
+		"id": 376,
+		"Latitude": -34.6707171,
+		"Longitude": 149.385788,
+		"date": "2023-08-23 13:35:47",
+		"soilCond": "damp"
+	},
+	{
+		"id": 377,
+		"Latitude": -34.9103225,
+		"Longitude": 148.1751634,
+		"date": "2023-12-10 19:32:12",
+		"soilCond": "dry"
+	},
+	{
+		"id": 378,
+		"Latitude": -34.0556655,
+		"Longitude": 148.7119374,
+		"date": "2023-05-15 03:17:15",
+		"soilCond": "dry"
+	},
+	{
+		"id": 379,
+		"Latitude": -32.9637334,
+		"Longitude": 148.4830548,
+		"date": "2023-02-04 23:53:09",
+		"soilCond": "wet"
+	},
+	{
+		"id": 380,
+		"Latitude": -35.7361165,
+		"Longitude": 148.5231055,
+		"date": "2024-01-21 09:44:48",
+		"soilCond": "dry"
+	},
+	{
+		"id": 381,
+		"Latitude": -33.7106259,
+		"Longitude": 148.5234733,
+		"date": "2023-08-08 16:04:28",
+		"soilCond": "dry"
+	},
+	{
+		"id": 382,
+		"Latitude": -34.1226815,
+		"Longitude": 148.8841893,
+		"date": "2023-08-13 23:51:22",
+		"soilCond": "damp"
+	},
+	{
+		"id": 383,
+		"Latitude": -32.836227,
+		"Longitude": 148.5417591,
+		"date": "2023-03-18 19:11:19",
+		"soilCond": "dry"
+	},
+	{
+		"id": 384,
+		"Latitude": -34.0818386,
+		"Longitude": 149.3875533,
+		"date": "2023-10-09 05:50:32",
+		"soilCond": "dry"
+	},
+	{
+		"id": 385,
+		"Latitude": -34.5927902,
+		"Longitude": 149.255262,
+		"date": "2023-02-03 08:40:50",
+		"soilCond": "dry"
+	},
+	{
+		"id": 386,
+		"Latitude": -32.7521173,
+		"Longitude": 148.326747,
+		"date": "2023-10-31 19:30:38",
+		"soilCond": "damp"
+	},
+	{
+		"id": 387,
+		"Latitude": -34.8044525,
+		"Longitude": 148.8337245,
+		"date": "2023-02-21 22:23:56",
+		"soilCond": "dry"
+	},
+	{
+		"id": 388,
+		"Latitude": -33.4818082,
+		"Longitude": 149.8734308,
+		"date": "2023-12-10 06:28:11",
+		"soilCond": "damp"
+	},
+	{
+		"id": 389,
+		"Latitude": -35.2802255,
+		"Longitude": 149.3778961,
+		"date": "2023-04-22 01:03:12",
+		"soilCond": "wet"
+	},
+	{
+		"id": 390,
+		"Latitude": -33.6378976,
+		"Longitude": 148.7582093,
+		"date": "2023-12-22 01:49:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 391,
+		"Latitude": -35.2002537,
+		"Longitude": 148.9332981,
+		"date": "2023-09-25 16:39:57",
+		"soilCond": "wet"
+	},
+	{
+		"id": 392,
+		"Latitude": -34.0174653,
+		"Longitude": 149.1265193,
+		"date": "2023-04-20 21:21:46",
+		"soilCond": "dry"
+	},
+	{
+		"id": 393,
+		"Latitude": -32.7397482,
+		"Longitude": 149.5239011,
+		"date": "2023-03-07 05:34:08",
+		"soilCond": "damp"
+	},
+	{
+		"id": 394,
+		"Latitude": -33.4181475,
+		"Longitude": 149.0668813,
+		"date": "2023-06-01 13:04:09",
+		"soilCond": "wet"
+	},
+	{
+		"id": 395,
+		"Latitude": -35.8806255,
+		"Longitude": 148.4337527,
+		"date": "2023-07-01 13:49:06",
+		"soilCond": "damp"
+	},
+	{
+		"id": 396,
+		"Latitude": -33.3758948,
+		"Longitude": 148.2764312,
+		"date": "2023-11-20 06:47:10",
+		"soilCond": "wet"
+	},
+	{
+		"id": 397,
+		"Latitude": -34.9844028,
+		"Longitude": 148.9856628,
+		"date": "2023-08-21 07:44:58",
+		"soilCond": "damp"
+	},
+	{
+		"id": 398,
+		"Latitude": -34.7678489,
+		"Longitude": 148.8840931,
+		"date": "2023-07-14 17:38:17",
+		"soilCond": "damp"
+	},
+	{
+		"id": 399,
+		"Latitude": -34.3418912,
+		"Longitude": 148.2298177,
+		"date": "2023-04-06 00:36:31",
+		"soilCond": "wet"
+	},
+	{
+		"id": 400,
+		"Latitude": -34.9787427,
+		"Longitude": 148.8472306,
+		"date": "2023-06-20 14:45:38",
+		"soilCond": "wet"
+	},
+	{
+		"id": 401,
+		"Latitude": -33.0105376,
+		"Longitude": 148.0625231,
+		"date": "2023-04-15 05:34:38",
+		"soilCond": "dry"
+	},
+	{
+		"id": 402,
+		"Latitude": -35.4037092,
+		"Longitude": 149.6625533,
+		"date": "2023-03-22 00:51:10",
+		"soilCond": "damp"
+	},
+	{
+		"id": 403,
+		"Latitude": -35.6662969,
+		"Longitude": 149.2300389,
+		"date": "2023-08-19 00:03:22",
+		"soilCond": "wet"
+	},
+	{
+		"id": 404,
+		"Latitude": -35.2989385,
+		"Longitude": 148.7823303,
+		"date": "2024-01-14 19:17:43",
+		"soilCond": "wet"
+	},
+	{
+		"id": 405,
+		"Latitude": -35.6305984,
+		"Longitude": 148.4143487,
+		"date": "2023-07-29 21:19:02",
+		"soilCond": "wet"
+	},
+	{
+		"id": 406,
+		"Latitude": -34.3207689,
+		"Longitude": 149.1110332,
+		"date": "2023-09-13 07:23:38",
+		"soilCond": "dry"
+	},
+	{
+		"id": 407,
+		"Latitude": -33.9773349,
+		"Longitude": 149.4090628,
+		"date": "2023-12-10 13:05:01",
+		"soilCond": "dry"
+	},
+	{
+		"id": 408,
+		"Latitude": -33.3336283,
+		"Longitude": 148.7957388,
+		"date": "2023-07-09 06:18:04",
+		"soilCond": "dry"
+	},
+	{
+		"id": 409,
+		"Latitude": -32.7174831,
+		"Longitude": 149.8645745,
+		"date": "2023-03-31 20:27:10",
+		"soilCond": "dry"
+	},
+	{
+		"id": 410,
+		"Latitude": -33.2242668,
+		"Longitude": 148.0732572,
+		"date": "2023-03-08 08:47:03",
+		"soilCond": "dry"
+	},
+	{
+		"id": 411,
+		"Latitude": -34.6990584,
+		"Longitude": 149.383033,
+		"date": "2023-06-20 20:28:32",
+		"soilCond": "damp"
+	},
+	{
+		"id": 412,
+		"Latitude": -32.914318,
+		"Longitude": 148.6276703,
+		"date": "2023-11-26 14:24:35",
+		"soilCond": "dry"
+	},
+	{
+		"id": 413,
+		"Latitude": -33.7117829,
+		"Longitude": 148.3699376,
+		"date": "2023-02-24 13:50:41",
+		"soilCond": "damp"
+	},
+	{
+		"id": 414,
+		"Latitude": -35.4414053,
+		"Longitude": 149.0603594,
+		"date": "2023-09-19 12:45:51",
+		"soilCond": "wet"
+	},
+	{
+		"id": 415,
+		"Latitude": -34.2402541,
+		"Longitude": 148.160412,
+		"date": "2023-08-08 23:27:30",
+		"soilCond": "wet"
+	},
+	{
+		"id": 416,
+		"Latitude": -33.6160825,
+		"Longitude": 148.5273096,
+		"date": "2023-12-29 14:25:30",
+		"soilCond": "dry"
+	},
+	{
+		"id": 417,
+		"Latitude": -33.4846561,
+		"Longitude": 148.6093477,
+		"date": "2023-08-07 12:37:22",
+		"soilCond": "dry"
+	},
+	{
+		"id": 418,
+		"Latitude": -33.5507535,
+		"Longitude": 148.0664536,
+		"date": "2023-07-27 12:43:16",
+		"soilCond": "dry"
+	},
+	{
+		"id": 419,
+		"Latitude": -32.7766411,
+		"Longitude": 148.9191504,
+		"date": "2023-11-25 10:07:22",
+		"soilCond": "dry"
+	},
+	{
+		"id": 420,
+		"Latitude": -34.553865,
+		"Longitude": 149.5316406,
+		"date": "2023-04-18 12:43:03",
+		"soilCond": "dry"
+	},
+	{
+		"id": 421,
+		"Latitude": -35.8733798,
+		"Longitude": 148.6424568,
+		"date": "2023-06-15 03:38:57",
+		"soilCond": "wet"
+	},
+	{
+		"id": 422,
+		"Latitude": -34.4599549,
+		"Longitude": 149.604207,
+		"date": "2023-11-29 02:30:38",
+		"soilCond": "wet"
+	},
+	{
+		"id": 423,
+		"Latitude": -34.9105163,
+		"Longitude": 149.2917735,
+		"date": "2024-01-05 03:31:04",
+		"soilCond": "wet"
+	},
+	{
+		"id": 424,
+		"Latitude": -35.3666738,
+		"Longitude": 149.6980624,
+		"date": "2024-01-19 10:44:06",
+		"soilCond": "damp"
+	},
+	{
+		"id": 425,
+		"Latitude": -34.7088419,
+		"Longitude": 148.7953748,
+		"date": "2023-06-03 18:30:48",
+		"soilCond": "damp"
+	},
+	{
+		"id": 426,
+		"Latitude": -35.7363352,
+		"Longitude": 148.0163928,
+		"date": "2023-05-06 02:34:58",
+		"soilCond": "dry"
+	},
+	{
+		"id": 427,
+		"Latitude": -34.386715,
+		"Longitude": 149.8296745,
+		"date": "2023-11-05 13:44:29",
+		"soilCond": "dry"
+	},
+	{
+		"id": 428,
+		"Latitude": -34.694508,
+		"Longitude": 149.3637248,
+		"date": "2023-06-28 01:01:18",
+		"soilCond": "dry"
+	},
+	{
+		"id": 429,
+		"Latitude": -33.6730654,
+		"Longitude": 148.1433662,
+		"date": "2023-10-11 20:55:23",
+		"soilCond": "damp"
+	},
+	{
+		"id": 430,
+		"Latitude": -35.1260727,
+		"Longitude": 149.4166959,
+		"date": "2023-08-27 16:06:47",
+		"soilCond": "dry"
+	},
+	{
+		"id": 431,
+		"Latitude": -34.8836078,
+		"Longitude": 148.979929,
+		"date": "2023-07-13 23:22:10",
+		"soilCond": "damp"
+	},
+	{
+		"id": 432,
+		"Latitude": -32.8863724,
+		"Longitude": 148.5780337,
+		"date": "2023-03-29 12:00:27",
+		"soilCond": "dry"
+	},
+	{
+		"id": 433,
+		"Latitude": -35.6580252,
+		"Longitude": 149.5745303,
+		"date": "2023-04-20 16:35:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 434,
+		"Latitude": -32.8150173,
+		"Longitude": 149.5548985,
+		"date": "2023-10-17 12:20:34",
+		"soilCond": "wet"
+	},
+	{
+		"id": 435,
+		"Latitude": -35.2040048,
+		"Longitude": 149.7913696,
+		"date": "2023-07-17 19:32:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 436,
+		"Latitude": -33.2968959,
+		"Longitude": 149.9311154,
+		"date": "2023-08-15 10:45:03",
+		"soilCond": "damp"
+	},
+	{
+		"id": 437,
+		"Latitude": -32.8707323,
+		"Longitude": 149.0007606,
+		"date": "2023-03-09 08:13:13",
+		"soilCond": "wet"
+	},
+	{
+		"id": 438,
+		"Latitude": -35.7828397,
+		"Longitude": 149.9848563,
+		"date": "2023-09-21 23:32:44",
+		"soilCond": "wet"
+	},
+	{
+		"id": 439,
+		"Latitude": -33.1653367,
+		"Longitude": 148.2122518,
+		"date": "2023-10-03 18:09:02",
+		"soilCond": "dry"
+	},
+	{
+		"id": 440,
+		"Latitude": -34.3468804,
+		"Longitude": 148.8651686,
+		"date": "2023-09-06 04:27:58",
+		"soilCond": "wet"
+	},
+	{
+		"id": 441,
+		"Latitude": -35.3072678,
+		"Longitude": 149.1589897,
+		"date": "2023-07-17 14:25:49",
+		"soilCond": "dry"
+	},
+	{
+		"id": 442,
+		"Latitude": -32.9232975,
+		"Longitude": 149.8480029,
+		"date": "2023-05-29 05:22:47",
+		"soilCond": "wet"
+	},
+	{
+		"id": 443,
+		"Latitude": -35.4200238,
+		"Longitude": 149.5296682,
+		"date": "2023-07-29 02:46:36",
+		"soilCond": "dry"
+	},
+	{
+		"id": 444,
+		"Latitude": -35.8718946,
+		"Longitude": 149.2909079,
+		"date": "2023-12-13 09:39:05",
+		"soilCond": "dry"
+	},
+	{
+		"id": 445,
+		"Latitude": -34.8006311,
+		"Longitude": 149.9106749,
+		"date": "2023-10-18 08:18:35",
+		"soilCond": "wet"
+	},
+	{
+		"id": 446,
+		"Latitude": -33.1698443,
+		"Longitude": 148.283562,
+		"date": "2023-10-10 13:39:33",
+		"soilCond": "dry"
+	},
+	{
+		"id": 447,
+		"Latitude": -35.7031659,
+		"Longitude": 149.6147999,
+		"date": "2023-08-15 16:56:53",
+		"soilCond": "damp"
+	},
+	{
+		"id": 448,
+		"Latitude": -34.7390083,
+		"Longitude": 148.5191241,
+		"date": "2023-05-22 16:48:30",
+		"soilCond": "dry"
+	},
+	{
+		"id": 449,
+		"Latitude": -33.4640384,
+		"Longitude": 149.4226225,
+		"date": "2023-11-18 17:51:34",
+		"soilCond": "wet"
+	},
+	{
+		"id": 450,
+		"Latitude": -34.3252332,
+		"Longitude": 149.1193816,
+		"date": "2023-10-10 18:21:37",
+		"soilCond": "damp"
+	},
+	{
+		"id": 451,
+		"Latitude": -33.6305259,
+		"Longitude": 149.0087033,
+		"date": "2024-01-17 12:54:59",
+		"soilCond": "damp"
+	},
+	{
+		"id": 452,
+		"Latitude": -35.6475743,
+		"Longitude": 148.8069334,
+		"date": "2023-09-09 13:17:42",
+		"soilCond": "wet"
+	},
+	{
+		"id": 453,
+		"Latitude": -34.6883005,
+		"Longitude": 148.6365699,
+		"date": "2023-10-13 18:39:34",
+		"soilCond": "damp"
+	},
+	{
+		"id": 454,
+		"Latitude": -33.7937923,
+		"Longitude": 148.6046038,
+		"date": "2023-09-22 15:22:00",
+		"soilCond": "damp"
+	},
+	{
+		"id": 455,
+		"Latitude": -35.193185,
+		"Longitude": 148.1314153,
+		"date": "2023-07-30 08:03:33",
+		"soilCond": "wet"
+	},
+	{
+		"id": 456,
+		"Latitude": -35.2020561,
+		"Longitude": 149.3159197,
+		"date": "2023-09-01 16:18:14",
+		"soilCond": "damp"
+	},
+	{
+		"id": 457,
+		"Latitude": -34.0034459,
+		"Longitude": 149.6785137,
+		"date": "2023-09-16 05:21:49",
+		"soilCond": "dry"
+	},
+	{
+		"id": 458,
+		"Latitude": -34.9893248,
+		"Longitude": 149.8143062,
+		"date": "2023-11-23 22:03:51",
+		"soilCond": "wet"
+	},
+	{
+		"id": 459,
+		"Latitude": -35.5985451,
+		"Longitude": 149.3561882,
+		"date": "2023-09-07 07:35:34",
+		"soilCond": "dry"
+	},
+	{
+		"id": 460,
+		"Latitude": -35.3866407,
+		"Longitude": 149.6371743,
+		"date": "2023-08-31 20:47:56",
+		"soilCond": "wet"
+	},
+	{
+		"id": 461,
+		"Latitude": -34.9375906,
+		"Longitude": 148.6060382,
+		"date": "2023-04-27 02:56:43",
+		"soilCond": "wet"
+	},
+	{
+		"id": 462,
+		"Latitude": -33.0629199,
+		"Longitude": 148.4894103,
+		"date": "2023-12-21 10:14:46",
+		"soilCond": "dry"
+	},
+	{
+		"id": 463,
+		"Latitude": -33.0426421,
+		"Longitude": 148.0413574,
+		"date": "2023-05-05 13:03:19",
+		"soilCond": "dry"
+	},
+	{
+		"id": 464,
+		"Latitude": -35.7291327,
+		"Longitude": 149.3049117,
+		"date": "2023-06-12 20:28:10",
+		"soilCond": "damp"
+	},
+	{
+		"id": 465,
+		"Latitude": -34.9440601,
+		"Longitude": 149.1727123,
+		"date": "2024-01-16 15:35:21",
+		"soilCond": "damp"
+	},
+	{
+		"id": 466,
+		"Latitude": -34.9025967,
+		"Longitude": 149.1764297,
+		"date": "2023-04-08 07:14:39",
+		"soilCond": "damp"
+	},
+	{
+		"id": 467,
+		"Latitude": -34.4736569,
+		"Longitude": 149.7288965,
+		"date": "2023-08-14 17:42:41",
+		"soilCond": "wet"
+	},
+	{
+		"id": 468,
+		"Latitude": -35.1256455,
+		"Longitude": 148.3694567,
+		"date": "2023-08-06 15:44:06",
+		"soilCond": "damp"
+	},
+	{
+		"id": 469,
+		"Latitude": -33.3483572,
+		"Longitude": 149.358989,
+		"date": "2023-07-22 17:32:24",
+		"soilCond": "wet"
+	},
+	{
+		"id": 470,
+		"Latitude": -35.0195633,
+		"Longitude": 149.3770046,
+		"date": "2023-06-23 22:53:07",
+		"soilCond": "wet"
+	},
+	{
+		"id": 471,
+		"Latitude": -35.2518881,
+		"Longitude": 149.8092062,
+		"date": "2023-10-16 06:27:19",
+		"soilCond": "wet"
+	},
+	{
+		"id": 472,
+		"Latitude": -35.8942438,
+		"Longitude": 149.9779546,
+		"date": "2023-09-14 07:11:41",
+		"soilCond": "wet"
+	},
+	{
+		"id": 473,
+		"Latitude": -32.7642131,
+		"Longitude": 148.84104,
+		"date": "2023-12-25 11:33:29",
+		"soilCond": "dry"
+	},
+	{
+		"id": 474,
+		"Latitude": -35.1790636,
+		"Longitude": 149.7723036,
+		"date": "2023-05-05 00:17:35",
+		"soilCond": "dry"
+	},
+	{
+		"id": 475,
+		"Latitude": -33.0622537,
+		"Longitude": 148.9299071,
+		"date": "2023-12-22 15:46:22",
+		"soilCond": "damp"
+	},
+	{
+		"id": 476,
+		"Latitude": -34.652786,
+		"Longitude": 149.9594309,
+		"date": "2023-06-03 02:08:41",
+		"soilCond": "damp"
+	},
+	{
+		"id": 477,
+		"Latitude": -33.4116594,
+		"Longitude": 148.2585909,
+		"date": "2023-04-04 01:39:15",
+		"soilCond": "dry"
+	},
+	{
+		"id": 478,
+		"Latitude": -35.3047353,
+		"Longitude": 149.9528145,
+		"date": "2023-08-21 21:00:46",
+		"soilCond": "dry"
+	},
+	{
+		"id": 479,
+		"Latitude": -34.1836748,
+		"Longitude": 149.5821737,
+		"date": "2023-10-04 11:50:42",
+		"soilCond": "wet"
+	},
+	{
+		"id": 480,
+		"Latitude": -34.9495836,
+		"Longitude": 149.4113662,
+		"date": "2023-07-03 09:54:24",
+		"soilCond": "wet"
+	},
+	{
+		"id": 481,
+		"Latitude": -33.6017579,
+		"Longitude": 149.2951174,
+		"date": "2023-12-10 17:30:54",
+		"soilCond": "dry"
+	},
+	{
+		"id": 482,
+		"Latitude": -32.9206459,
+		"Longitude": 149.1931757,
+		"date": "2023-12-31 08:44:56",
+		"soilCond": "damp"
+	},
+	{
+		"id": 483,
+		"Latitude": -33.9137012,
+		"Longitude": 149.2035361,
+		"date": "2023-11-24 04:39:37",
+		"soilCond": "wet"
+	},
+	{
+		"id": 484,
+		"Latitude": -34.067791,
+		"Longitude": 148.7035834,
+		"date": "2023-05-21 11:26:23",
+		"soilCond": "wet"
+	},
+	{
+		"id": 485,
+		"Latitude": -34.7289612,
+		"Longitude": 148.7555428,
+		"date": "2023-11-30 11:29:06",
+		"soilCond": "wet"
+	},
+	{
+		"id": 486,
+		"Latitude": -33.3663132,
+		"Longitude": 149.9141094,
+		"date": "2023-02-19 20:38:31",
+		"soilCond": "dry"
+	},
+	{
+		"id": 487,
+		"Latitude": -35.0461677,
+		"Longitude": 149.472783,
+		"date": "2023-05-12 00:24:56",
+		"soilCond": "damp"
+	},
+	{
+		"id": 488,
+		"Latitude": -33.3870574,
+		"Longitude": 148.4054087,
+		"date": "2023-08-17 17:14:14",
+		"soilCond": "dry"
+	},
+	{
+		"id": 489,
+		"Latitude": -35.5302167,
+		"Longitude": 149.2508249,
+		"date": "2023-08-27 19:55:18",
+		"soilCond": "wet"
+	},
+	{
+		"id": 490,
+		"Latitude": -33.2313868,
+		"Longitude": 149.9725781,
+		"date": "2023-05-30 21:55:56",
+		"soilCond": "wet"
+	},
+	{
+		"id": 491,
+		"Latitude": -34.4261574,
+		"Longitude": 148.1686336,
+		"date": "2023-04-18 21:28:47",
+		"soilCond": "dry"
+	},
+	{
+		"id": 492,
+		"Latitude": -33.9154711,
+		"Longitude": 148.4499971,
+		"date": "2023-03-20 01:49:10",
+		"soilCond": "damp"
+	},
+	{
+		"id": 493,
+		"Latitude": -33.3209038,
+		"Longitude": 149.7349623,
+		"date": "2023-05-09 15:58:28",
+		"soilCond": "wet"
+	},
+	{
+		"id": 494,
+		"Latitude": -32.7580109,
+		"Longitude": 148.9180533,
+		"date": "2023-02-01 23:50:47",
+		"soilCond": "dry"
+	},
+	{
+		"id": 495,
+		"Latitude": -33.9076506,
+		"Longitude": 148.5488456,
+		"date": "2023-03-18 20:39:05",
+		"soilCond": "dry"
+	},
+	{
+		"id": 496,
+		"Latitude": -33.8615961,
+		"Longitude": 149.0669533,
+		"date": "2023-06-08 14:37:29",
+		"soilCond": "wet"
+	},
+	{
+		"id": 497,
+		"Latitude": -33.2761653,
+		"Longitude": 149.1758405,
+		"date": "2023-08-08 14:16:45",
+		"soilCond": "damp"
+	},
+	{
+		"id": 498,
+		"Latitude": -33.1530126,
+		"Longitude": 148.3982346,
+		"date": "2024-01-08 09:29:39",
+		"soilCond": "damp"
+	},
+	{
+		"id": 499,
+		"Latitude": -33.9967111,
+		"Longitude": 149.5557867,
+		"date": "2023-12-13 06:59:56",
+		"soilCond": "dry"
+	},
+	{
+		"id": 500,
+		"Latitude": -35.8398631,
+		"Longitude": 148.1549826,
+		"date": "2023-12-03 15:10:23",
+		"soilCond": "dry"
 	}
 ]

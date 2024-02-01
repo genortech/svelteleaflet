@@ -41,11 +41,17 @@
 				>
 				<Popup>
 					{#if data.marker_list[i].id === i + 1}
-						<h2>Name: {data.marker_list.at(i)?.name}</h2>
+						<h3>Latitude: {data.marker_list.at(i)?.Latitude}</h3>
+						<h3>Longitude: {data.marker_list.at(i)?.Longitude}</h3>
 						<h3>
-							Data:
-							{data.marker_list.at(i)?.popup}
+							Date:
+							{data.marker_list.at(i)?.date}
 						</h3>
+						<h3>
+							Soil Condition:
+							{data.marker_list.at(i)?.soilCond}
+						</h3>
+						<a href="/readings/{data.marker_list[i].id}">See Readings</a>
 					{/if}
 				</Popup>
 			</Marker>
